@@ -447,7 +447,164 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
-          <zone h='100000' id='1' param='vert' type='layout-flow' w='60243' x='39757' y='0'>
+          <zone h='100000' id='1' param='vert' type='layout-flow' w='59009' x='40991' y='0'>
+            <zone forceUpdate='true' h='4096' id='4' type='text' w='59009' x='40991' y='0'>
+              <formatted-text>
+                <run bold='true' fontsize='20'>About the data</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone fixed-size='24' h='2080' id='8' is-fixed='true' type='empty' w='59009' x='40991' y='4096'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='5201' id='5' type='text' w='59009' x='40991' y='6176'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='14'>From the international breweries data recorded for a duration of three years, you are directed to do the following analyses to aid better decision making in order to maximize profit and reduce loss to the lowest minimum.</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone fixed-size='24' h='2080' id='7' is-fixed='true' type='empty' w='59009' x='40991' y='11377'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='5136' id='6' type='text' w='59009' x='40991' y='13457'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='28'>PROFIT ANALYSIS</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone fixed-size='345' forceUpdate='true' h='22952' id='9' is-fixed='true' type='text' w='59009' x='40991' y='18593'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>1. Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories? </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>2. Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020. </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>3. Country that generated the highest profit in 2019 </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>4. Help him find the year with the highest profit. </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>5. Which month in the three years was the least profit generated? </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>6. What was the minimum profit in the month of December 2018?</run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>7. Compare the profit in percentage for each of the month in 2019 </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>8. Which particular brand generated the highest profit in Senegal?</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone forceUpdate='true' h='5136' id='10' type='text' w='59009' x='40991' y='41545'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='28'>BRAND ANALYSIS</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='18660' id='11' type='text' w='59009' x='40991' y='46681'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>1. Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>2. Find out the top two choice of consumer brands in Ghana </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>3. Find out the details of beers consumed in the past three years in the most oil reached country in West Africa. </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>4. Favorites malt brand in Anglophone region between 2018 and 2019 </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>5. Which brands sold the highest in 2019 in Nigeria? </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>6. Favorites brand in South_South region in Nigeria </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>7. Bear consumption in Nigeria </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>8. Level of consumption of Budweiser in the regions in Nigeria </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>9. Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='5136' id='12' type='text' w='59009' x='40991' y='65341'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='28'>COUNTRIES ANALYSIS</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='6567' id='13' type='text' w='59009' x='40991' y='70477'>
+              <formatted-text>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>1. Country with the highest consumption of beer. </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>2. Highest sales personnel of Budweiser in Senegal </run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='12'>3. Country with the highest profit of the fourth quarter in 2019</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone fixed-size='283' h='18921' id='15' is-fixed='true' type='empty' w='59009' x='40991' y='77044'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone forceUpdate='true' h='2666' id='14' type='text' w='59009' x='40991' y='95965'>
+              <formatted-text>
+                <run bold='true' fontalignment='2' fontcolor='#f9a655' fontsize='12'>Designed by: Adegbite Ayoade Abel</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -463,6 +620,14 @@
               <format attr='margin' value='0' />
             </zone-style>
           </zone>
+          <zone h='100000' id='16' param='horz' type='layout-flow' w='1234' x='39757' y='0'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='background-color' value='#f5eddc' />
+            </zone-style>
+          </zone>
           <zone-style>
             <format attr='border-color' value='#000000' />
             <format attr='border-style' value='none' />
@@ -470,6 +635,7 @@
             <format attr='margin' value='0' />
           </zone-style>
         </zone>
+        <zone h='4876' id='17' is-centered='0' is-scaled='1' param='C:/Users/USER/Downloads/174857 (1).png' type='bitmap' url='# linkedin profile' w='2886' x='41342' y='94083' />
       </zones>
       <simple-id uuid='{0F881196-23CD-4742-BC77-C4C605FD1D3E}' />
     </dashboard>
@@ -477,7 +643,7 @@
   <windows saved-dpi-scale-factor='1.5' source-height='44'>
     <window class='dashboard' maximized='true' name='Welcome'>
       <viewpoints />
-      <active id='1' />
+      <active id='-1' />
       <simple-id uuid='{BD35CA90-0871-4CB7-89C2-2599FF3ABDC8}' />
     </window>
     <window class='worksheet' name='Sheet 1'>
