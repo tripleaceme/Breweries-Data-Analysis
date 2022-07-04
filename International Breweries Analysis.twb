@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20193.19.0821.2225                               -->
+<workbook original-version='18.1' source-build='2019.3.0 (20193.19.0821.2225)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='International_Breweries' inline='true' name='federated.11zpuz31aorpwl1f2zi2607susuv' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='International_Breweries' name='textscan.0faqt020cs48da1bfh2kg18l94fi'>
+            <connection class='textscan' directory='C:/Users/USER/Documents/GitHub/Breweries-Data-Analysis/Data' filename='International_Breweries.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0faqt020cs48da1bfh2kg18l94fi' name='International_Breweries.csv' table='[International_Breweries#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='integer' name='SALES_ID' ordinal='0' />
+            <column datatype='string' name='SALES_REP' ordinal='1' />
+            <column datatype='string' name='EMAILS' ordinal='2' />
+            <column datatype='string' name='BRANDS' ordinal='3' />
+            <column datatype='integer' name='PLANT_COST' ordinal='4' />
+            <column datatype='integer' name='UNIT_PRICE' ordinal='5' />
+            <column datatype='integer' name='QUANTITY' ordinal='6' />
+            <column datatype='integer' name='COST' ordinal='7' />
+            <column datatype='integer' name='PROFIT' ordinal='8' />
+            <column datatype='string' name='COUNTRIES' ordinal='9' />
+            <column datatype='string' name='REGION ' ordinal='10' />
+            <column datatype='string' name='MONTHS' ordinal='11' />
+            <column datatype='string' name='YEARS' ordinal='12' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SALES_ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[SALES_ID]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>SALES_ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SALES_REP</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SALES_REP]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>SALES_REP</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>EMAILS</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[EMAILS]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>EMAILS</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>BRANDS</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[BRANDS]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>BRANDS</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PLANT_COST</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PLANT_COST]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>PLANT_COST</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>UNIT_PRICE</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[UNIT_PRICE]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>UNIT_PRICE</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>QUANTITY</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[QUANTITY]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>QUANTITY</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COST</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[COST]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>COST</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PROFIT</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PROFIT]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>PROFIT</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COUNTRIES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[COUNTRIES]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>COUNTRIES</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>REGION </remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[REGION ]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>REGION </remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MONTHS</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[MONTHS]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>MONTHS</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>YEARS</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[YEARS]</local-name>
+            <parent-name>[International_Breweries.csv]</parent-name>
+            <remote-alias>YEARS</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='string' name='[COUNTRIES]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column datatype='integer' name='[SALES_ID]' role='dimension' type='ordinal' />
+      <extract count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_GB' class='hyper' dbname='C:/Users/USER/Documents/GitHub/Breweries-Data-Analysis/International_Breweries(Tableau Data Extract).hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='07/04/2022 10:33:40 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='International_Breweries' increment-value='%null%' refresh-type='create' rows-inserted='1047' timestamp-start='2022-07-04 22:33:40.242' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>SALES_ID</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[SALES_ID]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>SALES_ID</remote-alias>
+              <ordinal>0</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1047</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>SALES_REP</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[SALES_REP]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>SALES_REP</remote-alias>
+              <ordinal>1</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>EMAILS</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[EMAILS]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>EMAILS</remote-alias>
+              <ordinal>2</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>BRANDS</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[BRANDS]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>BRANDS</remote-alias>
+              <ordinal>3</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PLANT_COST</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[PLANT_COST]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PLANT_COST</remote-alias>
+              <ordinal>4</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>UNIT_PRICE</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[UNIT_PRICE]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>UNIT_PRICE</remote-alias>
+              <ordinal>5</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>QUANTITY</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[QUANTITY]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>QUANTITY</remote-alias>
+              <ordinal>6</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>295</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>COST</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[COST]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>COST</remote-alias>
+              <ordinal>7</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>714</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>PROFIT</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[PROFIT]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>PROFIT</remote-alias>
+              <ordinal>8</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>753</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>COUNTRIES</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[COUNTRIES]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>COUNTRIES</remote-alias>
+              <ordinal>9</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>REGION </remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[REGION ]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>REGION </remote-alias>
+              <ordinal>10</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>MONTHS</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[MONTHS]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>MONTHS</remote-alias>
+              <ordinal>11</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>YEARS</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[YEARS]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>YEARS</remote-alias>
+              <ordinal>12</ordinal>
+              <family>International_Breweries.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' dim-percentage='0.477818' measure-ordering='alphabetic' measure-percentage='0.522182' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United Kingdom&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{24E657F4-B508-46BB-827E-7A30D3FA063C}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Welcome'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98960' id='1' param='vert' type='layout-flow' w='99376' x='312' y='520'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='background-color' value='#f5eddc' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <simple-id uuid='{0F881196-23CD-4742-BC77-C4C605FD1D3E}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='dashboard' maximized='true' name='Welcome'>
+      <viewpoints />
+      <active id='1' />
+      <simple-id uuid='{BD35CA90-0871-4CB7-89C2-2599FF3ABDC8}' />
+    </window>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{8812D49B-67FF-480E-9F69-99CA916FEA28}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Welcome' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAACJklEQVR4nO3ToRGAQBAEwYMi/xBJAYl8FDG8mG61cs0ca601EHXNzGiAqusf73Pv/AFb
+      nLsPwE4CIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmA
+      NAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgT
+      AGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQ
+      JgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkC
+      IE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDS
+      BECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0A
+      pAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECa
+      AEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmA
+      NAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgT
+      AGkCIE0ApAmANAGQ9gHiHwtBydeduQAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
