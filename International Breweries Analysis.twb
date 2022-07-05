@@ -1591,8 +1591,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='11' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='12' param='vert' type='layout-flow' w='98400' x='800' y='1000' />
+            <zone h='100000' id='13' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='14' param='vert' type='layout-flow' w='98400' x='800' y='1000' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1613,8 +1613,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='11' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='12' param='vert' type='layout-flow' w='98400' x='800' y='1000' />
+            <zone h='100000' id='13' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='14' param='vert' type='layout-flow' w='98400' x='800' y='1000' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -1626,6 +1626,38 @@
         </devicelayout>
       </devicelayouts>
       <simple-id uuid='{F656BCE3-9145-4A50-BDBD-24955B83F758}' />
+    </dashboard>
+    <dashboard name='International Breweries Analysis' type='storyboard'>
+      <style>
+        <style-rule element='story-point-caption'>
+          <format attr='width' value='201' />
+        </style-rule>
+      </style>
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98960' id='1' param='vert' removable='false' type='layout-flow' w='99376' x='312' y='520'>
+            <zone h='3251' id='3' type='title' w='99376' x='312' y='520' />
+            <zone h='6567' id='4' is-fixed='true' paired-zone-id='5' removable='false' type='flipboard-nav' w='99376' x='312' y='3771' />
+            <zone h='89142' id='5' paired-zone-id='4' removable='false' type='flipboard' w='99376' x='312' y='10338'>
+              <flipboard active-id='3' nav-type='caption' show-nav-arrows='true'>
+                <story-points>
+                  <story-point caption='Profit Analysis' captured-sheet='Profit Analysis' id='1' />
+                  <story-point caption='Brand Analysis' captured-sheet='Brand Analysis' id='2' />
+                  <story-point caption='Countries Analysis' captured-sheet='Countries Analysis' id='3' />
+                </story-points>
+              </flipboard>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <simple-id uuid='{F4E51395-C17E-40CB-8689-917D4648429E}' />
     </dashboard>
     <dashboard name='Profit Analysis'>
       <style />
@@ -1749,8 +1781,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2300' minheight='2300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='38' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98960' id='39' param='vert' type='layout-flow' w='99376' x='312' y='520'>
+            <zone h='100000' id='40' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98960' id='41' param='vert' type='layout-flow' w='99376' x='312' y='520'>
                 <zone forceUpdate='true' h='7477' id='13' type='text' w='100000' x='0' y='0'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='47'>International Breweries Profit Analysis</run>
@@ -2534,6 +2566,11 @@
       <active id='-1' />
       <simple-id uuid='{FF8E1DEF-7F8F-43BD-87BD-A81E92E03A8B}' />
     </window>
+    <window class='dashboard' name='International Breweries Analysis'>
+      <viewpoints />
+      <active id='4' />
+      <simple-id uuid='{F8E86A69-E66E-4AFD-8380-E6AF2E714FFC}' />
+    </window>
   </windows>
   <thumbnails>
     <thumbnail height='192' name='Brand Analysis' width='192'>
@@ -2563,6 +2600,67 @@
       gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
       MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
       fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='International Breweries Analysis' width='192'>
+      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
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFNAYhpCkBMUwBimgIQ0xSAmKYAxDQFIKYpADFN
+      AYhpCkBM+x+b4VjWVwcRaQAAAABJRU5ErkJggg==
     </thumbnail>
     <thumbnail height='192' name='Profit 1' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
