@@ -1,0 +1,1048 @@
+SALES_ID,SALES_REP,EMAILS,BRANDS,PLANT_COST,UNIT_PRICE,QUANTITY,COST,PROFIT,COUNTRIES,REGION ,MONTHS,YEARS
+1,Jardine,jard@gmail.com,trophy,150,200,725,145000,36250,Ghana,Southeast,January,2019
+2,Gill,gillhell@uk.com,budweiser,250,500,815,407500,203750,Nigeria,west,February,2018
+3,Sorvino,sorvi2000@gmail.com,castle lite,180,450,937,421650,252990,Togo,southsouth,March,2018
+4,Jones,jone.ai@yahoo.com,eagle lager,170,250,765,191250,61200,Benin,northwest,April,2018
+5,Andrews,andy@gmail.com,hero,150,200,836,167200,41800,Senegal,northeast ,May,2017
+6,Jardine,jard@gmail.com,beta malt,80,150,798,119700,55860,Ghana,northcentral ,June,2019
+7,Thompson,thomp@uk.com,grand malt,90,150,954,143100,57240,Nigeria,Southeast,July,2017
+8,Jones,jone.ai@yahoo.com,trophy,150,200,812,162400,40600,Togo,west,August,2018
+9,Morgan,morganny@gmail.com,budweiser,250,500,700,350000,175000,Benin,southsouth,September,2019
+10,Howard,howard_freeman@yahoo.com,castle lite,180,450,745,335250,201150,Senegal,northwest,October,2017
+11,Parent,parentty@uk.com,eagle lager,170,250,861,215250,68880,Ghana,northeast ,November,2017
+12,Jones,jone.ai@yahoo.com,hero,150,200,902,180400,45100,Nigeria,northcentral ,December,2019
+13,Smith,smithMan@yahoo.com,beta malt,80,150,731,109650,51170,Togo,Southeast,January,2018
+14,Jones,jone.ai@yahoo.com,grand malt,90,150,843,126450,50580,Benin,west,February,2017
+15,Morgan,morganny@gmail.com,trophy,150,200,939,187800,46950,Senegal,southsouth,March,2018
+16,Jones,jone.ai@yahoo.com,budweiser,250,500,709,354500,177250,Ghana,northwest,April,2019
+17,Parent,parentty@uk.com,castle lite,180,450,837,376650,225990,Nigeria,northeast ,May,2017
+18,Kivell,kivel_go@yahoo.com,eagle lager,170,250,910,227500,72800,Togo,northcentral ,June,2018
+19,Smith,smithMan@yahoo.com,hero,150,200,996,199200,49800,Benin,Southeast,July,2019
+20,Parent,parentty@uk.com,beta malt,80,150,731,109650,51170,Senegal,west,August,2017
+21,Gill,gillhell@uk.com,grand malt,90,150,898,134700,53880,Ghana,southsouth,September,2017
+22,Smith,smithMan@yahoo.com,trophy,150,200,860,172000,43000,Nigeria,northwest,October,2018
+23,Jones,jone.ai@yahoo.com,budweiser,250,500,859,429500,214750,Togo,northeast ,November,2017
+24,Sorvino,sorvi2000@gmail.com,castle lite,180,450,857,385650,231390,Benin,northcentral ,December,2017
+25,Jardine,jard@gmail.com,eagle lager,170,250,715,178750,57200,Senegal,Southeast,January,2018
+26,Andrews,andy@gmail.com,hero,150,200,999,199800,49950,Ghana,west,February,2018
+27,Howard,howard_freeman@yahoo.com,beta malt,80,150,982,147300,68740,Nigeria,southsouth,March,2017
+28,Gill,gillhell@uk.com,grand malt,90,150,920,138000,55200,Togo,northwest,April,2018
+29,Gill,gillhell@uk.com,trophy,150,200,875,175000,43750,Benin,northeast ,May,2017
+30,Kivell,kivel_go@yahoo.com,budweiser,250,500,945,472500,236250,Senegal,northcentral ,June,2019
+31,Jones,jone.ai@yahoo.com,castle lite,180,450,794,357300,214380,Ghana,Southeast,July,2019
+32,Morgan,morganny@gmail.com,eagle lager,170,250,826,206500,66080,Nigeria,west,August,2017
+33,Kivell,kivel_go@yahoo.com,hero,150,200,1000,200000,50000,Togo,southsouth,September,2019
+34,Sorvino,sorvi2000@gmail.com,beta malt,80,150,804,120600,56280,Benin,northwest,October,2018
+35,Gill,gillhell@uk.com,grand malt,90,150,890,133500,53400,Senegal,northeast ,November,2017
+36,Sorvino,sorvi2000@gmail.com,trophy,150,200,870,174000,43500,Ghana,northcentral ,December,2017
+37,Thompson,thomp@uk.com,budweiser,250,500,821,410500,205250,Nigeria,Southeast,January,2017
+38,Andrews,andy@gmail.com,castle lite,180,450,950,427500,256500,Togo,west,February,2018
+39,Jardine,jard@gmail.com,eagle lager,170,250,784,196000,62720,Benin,southsouth,March,2019
+40,Jardine,jard@gmail.com,hero,150,200,999,199800,49950,Senegal,northwest,April,2019
+41,Andrews,andy@gmail.com,beta malt,80,150,894,134100,62580,Ghana,northeast ,May,2019
+42,Jardine,jard@gmail.com,grand malt,90,150,827,124050,49620,Nigeria,northcentral ,June,2017
+43,Gill,gillhell@uk.com,trophy,150,200,779,155800,38950,Togo,Southeast,July,2018
+44,Sorvino,sorvi2000@gmail.com,budweiser,250,500,835,417500,208750,Benin,west,August,2017
+45,Jones,jone.ai@yahoo.com,castle lite,180,450,801,360450,216270,Senegal,southsouth,September,2018
+46,Andrews,andy@gmail.com,eagle lager,170,250,710,177500,56800,Ghana,northwest,October,2017
+47,Jardine,jard@gmail.com,hero,150,200,952,190400,47600,Nigeria,northeast ,November,2017
+48,Thompson,thomp@uk.com,beta malt,80,150,891,133650,62370,Togo,northcentral ,December,2017
+49,Jones,jone.ai@yahoo.com,grand malt,90,150,781,117150,46860,Benin,Southeast,January,2018
+50,Morgan,morganny@gmail.com,trophy,150,200,845,169000,42250,Senegal,west,February,2019
+51,Howard,howard_freeman@yahoo.com,budweiser,250,500,719,359500,179750,Ghana,southsouth,March,2018
+52,Parent,parentty@uk.com,castle lite,180,450,878,395100,237060,Nigeria,northwest,April,2019
+53,Jones,jone.ai@yahoo.com,eagle lager,170,250,832,208000,66560,Togo,northeast ,May,2018
+54,Smith,smithMan@yahoo.com,hero,150,200,766,153200,38300,Benin,northcentral ,June,2017
+55,Jones,jone.ai@yahoo.com,beta malt,80,150,726,108900,50820,Senegal,Southeast,July,2018
+56,Morgan,morganny@gmail.com,grand malt,90,150,962,144300,57720,Ghana,west,August,2017
+57,Jones,jone.ai@yahoo.com,trophy,150,200,920,184000,46000,Nigeria,southsouth,September,2018
+58,Parent,parentty@uk.com,budweiser,250,500,776,388000,194000,Togo,northwest,October,2017
+59,Kivell,kivel_go@yahoo.com,castle lite,180,450,872,392400,235440,Benin,northeast ,November,2018
+60,Smith,smithMan@yahoo.com,eagle lager,170,250,831,207750,66480,Senegal,northcentral ,December,2017
+61,Parent,parentty@uk.com,hero,150,200,847,169400,42350,Ghana,Southeast,January,2019
+62,Gill,gillhell@uk.com,beta malt,80,150,931,139650,65170,Nigeria,west,February,2018
+63,Smith,smithMan@yahoo.com,grand malt,90,150,768,115200,46080,Togo,southsouth,March,2017
+64,Jones,jone.ai@yahoo.com,trophy,150,200,736,147200,36800,Benin,northwest,April,2017
+65,Sorvino,sorvi2000@gmail.com,budweiser,250,500,780,390000,195000,Senegal,northeast ,May,2019
+66,Jardine,jard@gmail.com,castle lite,180,450,918,413100,247860,Ghana,northcentral ,June,2017
+67,Andrews,andy@gmail.com,eagle lager,170,250,769,192250,61520,Nigeria,Southeast,July,2019
+68,Howard,howard_freeman@yahoo.com,hero,150,200,712,142400,35600,Togo,west,August,2019
+69,Gill,gillhell@uk.com,beta malt,80,150,768,115200,53760,Benin,southsouth,September,2017
+70,Gill,gillhell@uk.com,grand malt,90,150,940,141000,56400,Senegal,northwest,October,2018
+71,Kivell,kivel_go@yahoo.com,trophy,150,200,948,189600,47400,Ghana,northeast ,November,2018
+72,Jones,jone.ai@yahoo.com,budweiser,250,500,869,434500,217250,Nigeria,northcentral ,December,2018
+73,Morgan,morganny@gmail.com,castle lite,180,450,727,327150,196290,Togo,Southeast,January,2019
+74,Kivell,kivel_go@yahoo.com,eagle lager,170,250,833,208250,66640,Benin,west,February,2018
+75,Sorvino,sorvi2000@gmail.com,hero,150,200,974,194800,48700,Senegal,southsouth,March,2018
+76,Gill,gillhell@uk.com,beta malt,80,150,713,106950,49910,Ghana,northwest,April,2017
+77,Sorvino,sorvi2000@gmail.com,grand malt,90,150,729,109350,43740,Nigeria,northeast ,May,2017
+78,Thompson,thomp@uk.com,trophy,150,200,946,189200,47300,Togo,northcentral ,June,2019
+79,Andrews,andy@gmail.com,budweiser,250,500,739,369500,184750,Benin,Southeast,July,2017
+80,Jardine,jard@gmail.com,castle lite,180,450,795,357750,214650,Senegal,west,August,2019
+81,Jardine,jard@gmail.com,eagle lager,170,250,701,175250,56080,Ghana,southsouth,September,2018
+82,Andrews,andy@gmail.com,hero,150,200,773,154600,38650,Nigeria,northwest,October,2019
+83,Jones,jone.ai@yahoo.com,beta malt,80,150,801,120150,56070,Togo,northeast ,November,2018
+84,Morgan,morganny@gmail.com,grand malt,90,150,892,133800,53520,Benin,northcentral ,December,2017
+85,Kivell,kivel_go@yahoo.com,trophy,150,200,739,147800,36950,Senegal,Southeast,January,2018
+86,Sorvino,sorvi2000@gmail.com,budweiser,250,500,704,352000,176000,Ghana,west,February,2018
+87,Gill,gillhell@uk.com,castle lite,180,450,879,395550,237330,Nigeria,southsouth,March,2018
+88,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,993,248250,79440,Togo,northwest,April,2017
+89,Thompson,thomp@uk.com,hero,150,200,820,164000,41000,Benin,northeast ,May,2018
+90,Andrews,andy@gmail.com,beta malt,80,150,869,130350,60830,Senegal,northcentral ,June,2018
+91,Jardine,jard@gmail.com,grand malt,90,150,902,135300,54120,Ghana,Southeast,July,2019
+92,Jardine,jard@gmail.com,trophy,150,200,981,196200,49050,Nigeria,west,August,2019
+93,Andrews,andy@gmail.com,budweiser,250,500,722,361000,180500,Togo,southsouth,September,2017
+94,Jardine,jard@gmail.com,castle lite,180,450,849,382050,229230,Benin,northwest,October,2017
+95,Gill,gillhell@uk.com,eagle lager,170,250,910,227500,72800,Senegal,northeast ,November,2019
+96,Sorvino,sorvi2000@gmail.com,hero,150,200,959,191800,47950,Ghana,northcentral ,December,2018
+97,Jones,jone.ai@yahoo.com,beta malt,80,150,896,134400,62720,Nigeria,Southeast,January,2019
+98,Andrews,andy@gmail.com,grand malt,90,150,856,128400,51360,Togo,west,February,2017
+99,Jardine,jard@gmail.com,trophy,150,200,817,163400,40850,Benin,southsouth,March,2017
+100,Thompson,thomp@uk.com,budweiser,250,500,729,364500,182250,Senegal,northwest,April,2017
+101,Jones,jone.ai@yahoo.com,castle lite,180,450,805,362250,217350,Ghana,northeast ,May,2017
+102,Morgan,morganny@gmail.com,eagle lager,170,250,828,207000,66240,Nigeria,northcentral ,June,2019
+103,Howard,howard_freeman@yahoo.com,hero,150,200,990,198000,49500,Togo,Southeast,July,2019
+104,Parent,parentty@uk.com,beta malt,80,150,831,124650,58170,Benin,west,August,2017
+105,Jones,jone.ai@yahoo.com,grand malt,90,150,903,135450,54180,Senegal,southsouth,September,2019
+106,Smith,smithMan@yahoo.com,trophy,150,200,751,150200,37550,Ghana,northwest,October,2017
+107,Jones,jone.ai@yahoo.com,budweiser,250,500,990,495000,247500,Nigeria,northeast ,November,2019
+108,Jardine,jard@gmail.com,castle lite,180,450,878,395100,237060,Togo,northcentral ,December,2018
+109,Gill,gillhell@uk.com,eagle lager,170,250,720,180000,57600,Benin,Southeast,January,2017
+110,Sorvino,sorvi2000@gmail.com,hero,150,200,777,155400,38850,Senegal,west,February,2017
+111,Jones,jone.ai@yahoo.com,beta malt,80,150,848,127200,59360,Ghana,southsouth,March,2019
+112,Andrews,andy@gmail.com,grand malt,90,150,874,131100,52440,Nigeria,northwest,April,2017
+113,Jardine,jard@gmail.com,trophy,150,200,739,147800,36950,Togo,northeast ,May,2017
+114,Thompson,thomp@uk.com,budweiser,250,500,704,352000,176000,Benin,northcentral ,June,2018
+115,Jones,jone.ai@yahoo.com,castle lite,180,450,855,384750,230850,Senegal,Southeast,July,2019
+116,Morgan,morganny@gmail.com,eagle lager,170,250,971,242750,77680,Ghana,west,August,2018
+117,Howard,howard_freeman@yahoo.com,hero,150,200,957,191400,47850,Nigeria,southsouth,September,2019
+118,Parent,parentty@uk.com,beta malt,80,150,769,115350,53830,Togo,northwest,October,2017
+119,Jones,jone.ai@yahoo.com,grand malt,90,150,710,106500,42600,Benin,northeast ,November,2019
+120,Smith,smithMan@yahoo.com,trophy,150,200,917,183400,45850,Senegal,northcentral ,December,2019
+121,Jones,jone.ai@yahoo.com,budweiser,250,500,727,363500,181750,Ghana,Southeast,January,2017
+122,Morgan,morganny@gmail.com,castle lite,180,450,768,345600,207360,Nigeria,west,February,2018
+123,Jones,jone.ai@yahoo.com,eagle lager,170,250,870,217500,69600,Togo,southsouth,March,2019
+124,Parent,parentty@uk.com,hero,150,200,914,182800,45700,Benin,northwest,April,2019
+125,Kivell,kivel_go@yahoo.com,beta malt,80,150,763,114450,53410,Senegal,northeast ,May,2019
+126,Smith,smithMan@yahoo.com,grand malt,90,150,951,142650,57060,Ghana,northcentral ,June,2017
+127,Parent,parentty@uk.com,trophy,150,200,810,162000,40500,Nigeria,Southeast,July,2018
+128,Gill,gillhell@uk.com,budweiser,250,500,886,443000,221500,Togo,west,August,2019
+129,Smith,smithMan@yahoo.com,castle lite,180,450,984,442800,265680,Benin,southsouth,September,2018
+130,Jones,jone.ai@yahoo.com,eagle lager,170,250,974,243500,77920,Senegal,northwest,October,2017
+131,Sorvino,sorvi2000@gmail.com,hero,150,200,901,180200,45050,Ghana,northeast ,November,2019
+132,Jardine,jard@gmail.com,beta malt,80,150,934,140100,65380,Nigeria,northcentral ,December,2019
+133,Andrews,andy@gmail.com,grand malt,90,150,832,124800,49920,Togo,Southeast,January,2017
+134,Howard,howard_freeman@yahoo.com,trophy,150,200,840,168000,42000,Benin,west,February,2018
+135,Gill,gillhell@uk.com,budweiser,250,500,966,483000,241500,Senegal,southsouth,March,2017
+136,Gill,gillhell@uk.com,castle lite,180,450,832,374400,224640,Ghana,northwest,April,2018
+137,Kivell,kivel_go@yahoo.com,eagle lager,170,250,968,242000,77440,Nigeria,northeast ,May,2019
+138,Jones,jone.ai@yahoo.com,hero,150,200,791,158200,39550,Togo,northcentral ,June,2019
+139,Morgan,morganny@gmail.com,beta malt,80,150,774,116100,54180,Benin,Southeast,July,2018
+140,Kivell,kivel_go@yahoo.com,grand malt,90,150,992,148800,59520,Senegal,west,August,2017
+141,Sorvino,sorvi2000@gmail.com,trophy,150,200,881,176200,44050,Ghana,southsouth,September,2018
+142,Gill,gillhell@uk.com,budweiser,250,500,975,487500,243750,Nigeria,northwest,October,2017
+143,Sorvino,sorvi2000@gmail.com,castle lite,180,450,733,329850,197910,Togo,northeast ,November,2018
+144,Thompson,thomp@uk.com,eagle lager,170,250,776,194000,62080,Benin,northcentral ,December,2017
+145,Andrews,andy@gmail.com,hero,150,200,924,184800,46200,Senegal,Southeast,January,2019
+146,Jardine,jard@gmail.com,beta malt,80,150,744,111600,52080,Ghana,west,February,2019
+147,Jardine,jard@gmail.com,grand malt,90,150,754,113100,45240,Nigeria,southsouth,March,2019
+148,Andrews,andy@gmail.com,trophy,150,200,792,158400,39600,Togo,northwest,April,2019
+149,Jardine,jard@gmail.com,budweiser,250,500,838,419000,209500,Benin,northeast ,May,2017
+150,Gill,gillhell@uk.com,castle lite,180,450,963,433350,260010,Senegal,northcentral ,June,2017
+151,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,995,248750,79600,Ghana,Southeast,July,2017
+152,Jones,jone.ai@yahoo.com,hero,150,200,941,188200,47050,Nigeria,west,August,2017
+153,Andrews,andy@gmail.com,beta malt,80,150,930,139500,65100,Togo,southsouth,September,2018
+154,Jardine,jard@gmail.com,grand malt,90,150,780,117000,46800,Benin,northwest,October,2019
+155,Thompson,thomp@uk.com,trophy,150,200,729,145800,36450,Senegal,northeast ,November,2019
+156,Jones,jone.ai@yahoo.com,budweiser,250,500,909,454500,227250,Ghana,northcentral ,December,2019
+157,Morgan,morganny@gmail.com,castle lite,180,450,961,432450,259470,Nigeria,Southeast,January,2018
+158,Howard,howard_freeman@yahoo.com,eagle lager,170,250,729,182250,58320,Togo,west,February,2018
+159,Parent,parentty@uk.com,hero,150,200,944,188800,47200,Benin,southsouth,March,2019
+160,Jones,jone.ai@yahoo.com,beta malt,80,150,981,147150,68670,Senegal,northwest,April,2017
+161,Smith,smithMan@yahoo.com,grand malt,90,150,763,114450,45780,Ghana,northeast ,May,2018
+162,Jones,jone.ai@yahoo.com,trophy,150,200,885,177000,44250,Nigeria,northcentral ,June,2017
+163,Morgan,morganny@gmail.com,budweiser,250,500,854,427000,213500,Togo,Southeast,July,2018
+164,Jones,jone.ai@yahoo.com,castle lite,180,450,727,327150,196290,Benin,west,August,2018
+165,Parent,parentty@uk.com,eagle lager,170,250,991,247750,79280,Senegal,southsouth,September,2018
+166,Kivell,kivel_go@yahoo.com,hero,150,200,792,158400,39600,Ghana,northwest,October,2019
+167,Smith,smithMan@yahoo.com,beta malt,80,150,898,134700,62860,Nigeria,northeast ,November,2019
+168,Parent,parentty@uk.com,grand malt,90,150,945,141750,56700,Togo,northcentral ,December,2019
+169,Gill,gillhell@uk.com,trophy,150,200,814,162800,40700,Benin,Southeast,January,2019
+170,Smith,smithMan@yahoo.com,budweiser,250,500,863,431500,215750,Senegal,west,February,2018
+171,Jones,jone.ai@yahoo.com,castle lite,180,450,829,373050,223830,Ghana,southsouth,March,2019
+172,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,747,186750,59760,Nigeria,northwest,April,2017
+173,Jardine,jard@gmail.com,hero,150,200,961,192200,48050,Togo,northeast ,May,2018
+174,Andrews,andy@gmail.com,beta malt,80,150,803,120450,56210,Benin,northcentral ,June,2019
+175,Howard,howard_freeman@yahoo.com,grand malt,90,150,875,131250,52500,Senegal,Southeast,July,2017
+176,Gill,gillhell@uk.com,trophy,150,200,750,150000,37500,Ghana,west,August,2018
+177,Gill,gillhell@uk.com,budweiser,250,500,850,425000,212500,Nigeria,southsouth,September,2017
+178,Kivell,kivel_go@yahoo.com,castle lite,180,450,710,319500,191700,Togo,northwest,October,2018
+179,Jones,jone.ai@yahoo.com,eagle lager,170,250,881,220250,70480,Benin,northeast ,November,2017
+180,Morgan,morganny@gmail.com,hero,150,200,777,155400,38850,Senegal,northcentral ,December,2018
+181,Kivell,kivel_go@yahoo.com,beta malt,80,150,708,106200,49560,Ghana,Southeast,January,2017
+182,Sorvino,sorvi2000@gmail.com,grand malt,90,150,996,149400,59760,Nigeria,west,February,2019
+183,Gill,gillhell@uk.com,trophy,150,200,870,174000,43500,Togo,southsouth,March,2019
+184,Sorvino,sorvi2000@gmail.com,budweiser,250,500,972,486000,243000,Benin,northwest,April,2019
+185,Thompson,thomp@uk.com,castle lite,180,450,989,445050,267030,Senegal,northeast ,May,2018
+186,Andrews,andy@gmail.com,eagle lager,170,250,936,234000,74880,Ghana,northcentral ,June,2018
+187,Jardine,jard@gmail.com,hero,150,200,1000,200000,50000,Nigeria,Southeast,July,2017
+188,Jardine,jard@gmail.com,beta malt,80,150,947,142050,66290,Togo,west,August,2018
+189,Andrews,andy@gmail.com,grand malt,90,150,762,114300,45720,Benin,southsouth,September,2019
+190,Jones,jone.ai@yahoo.com,trophy,150,200,742,148400,37100,Senegal,northwest,October,2017
+191,Morgan,morganny@gmail.com,budweiser,250,500,902,451000,225500,Ghana,northeast ,November,2019
+192,Kivell,kivel_go@yahoo.com,castle lite,180,450,840,378000,226800,Nigeria,northcentral ,December,2018
+193,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,773,193250,61840,Togo,Southeast,January,2017
+194,Gill,gillhell@uk.com,hero,150,200,934,186800,46700,Benin,west,February,2018
+195,Sorvino,sorvi2000@gmail.com,beta malt,80,150,983,147450,68810,Senegal,southsouth,March,2017
+196,Thompson,thomp@uk.com,grand malt,90,150,729,109350,43740,Ghana,northwest,April,2018
+197,Andrews,andy@gmail.com,trophy,150,200,786,157200,39300,Nigeria,northeast ,May,2017
+198,Jardine,jard@gmail.com,budweiser,250,500,843,421500,210750,Togo,northcentral ,June,2018
+199,Jardine,jard@gmail.com,castle lite,180,450,897,403650,242190,Benin,Southeast,July,2017
+200,Andrews,andy@gmail.com,eagle lager,170,250,733,183250,58640,Senegal,west,August,2018
+201,Jardine,jard@gmail.com,hero,150,200,939,187800,46950,Ghana,southsouth,September,2019
+202,Gill,gillhell@uk.com,beta malt,80,150,836,125400,58520,Nigeria,northwest,October,2017
+203,Sorvino,sorvi2000@gmail.com,grand malt,90,150,874,131100,52440,Togo,northeast ,November,2018
+204,Jones,jone.ai@yahoo.com,trophy,150,200,764,152800,38200,Benin,northcentral ,December,2018
+205,Andrews,andy@gmail.com,budweiser,250,500,920,460000,230000,Senegal,Southeast,January,2019
+206,Jardine,jard@gmail.com,castle lite,180,450,950,427500,256500,Ghana,west,February,2017
+207,Thompson,thomp@uk.com,eagle lager,170,250,841,210250,67280,Nigeria,southsouth,March,2017
+208,Jones,jone.ai@yahoo.com,hero,150,200,801,160200,40050,Togo,northwest,April,2017
+209,Morgan,morganny@gmail.com,beta malt,80,150,867,130050,60690,Benin,northeast ,May,2018
+210,Howard,howard_freeman@yahoo.com,grand malt,90,150,721,108150,43260,Senegal,northcentral ,June,2017
+211,Parent,parentty@uk.com,trophy,150,200,755,151000,37750,Ghana,Southeast,July,2017
+212,Jones,jone.ai@yahoo.com,budweiser,250,500,937,468500,234250,Nigeria,west,August,2018
+213,Smith,smithMan@yahoo.com,castle lite,180,450,865,389250,233550,Togo,southsouth,September,2017
+214,Jones,jone.ai@yahoo.com,eagle lager,170,250,736,184000,58880,Benin,northwest,October,2018
+215,Jardine,jard@gmail.com,hero,150,200,982,196400,49100,Senegal,northeast ,November,2017
+216,Gill,gillhell@uk.com,beta malt,80,150,850,127500,59500,Ghana,northcentral ,December,2017
+217,Sorvino,sorvi2000@gmail.com,grand malt,90,150,754,113100,45240,Nigeria,Southeast,January,2017
+218,Jones,jone.ai@yahoo.com,trophy,150,200,912,182400,45600,Togo,west,February,2018
+219,Andrews,andy@gmail.com,budweiser,250,500,881,440500,220250,Benin,southsouth,March,2017
+220,Jardine,jard@gmail.com,castle lite,180,450,818,368100,220860,Senegal,northwest,April,2017
+221,Thompson,thomp@uk.com,eagle lager,170,250,781,195250,62480,Ghana,northeast ,May,2017
+222,Jones,jone.ai@yahoo.com,hero,150,200,910,182000,45500,Nigeria,northcentral ,June,2018
+223,Morgan,morganny@gmail.com,beta malt,80,150,704,105600,49280,Togo,Southeast,July,2019
+224,Howard,howard_freeman@yahoo.com,grand malt,90,150,824,123600,49440,Benin,west,August,2018
+225,Parent,parentty@uk.com,trophy,150,200,710,142000,35500,Senegal,southsouth,September,2019
+226,Jones,jone.ai@yahoo.com,budweiser,250,500,913,456500,228250,Ghana,northwest,October,2018
+227,Smith,smithMan@yahoo.com,castle lite,180,450,983,442350,265410,Nigeria,northeast ,November,2018
+228,Jones,jone.ai@yahoo.com,eagle lager,170,250,706,176500,56480,Togo,northcentral ,December,2019
+229,Morgan,morganny@gmail.com,hero,150,200,819,163800,40950,Benin,Southeast,January,2018
+230,Jones,jone.ai@yahoo.com,beta malt,80,150,762,114300,53340,Senegal,west,February,2018
+231,Parent,parentty@uk.com,grand malt,90,150,760,114000,45600,Ghana,southsouth,March,2019
+232,Kivell,kivel_go@yahoo.com,trophy,150,200,872,174400,43600,Nigeria,northwest,April,2019
+233,Smith,smithMan@yahoo.com,budweiser,250,500,723,361500,180750,Togo,northeast ,May,2019
+234,Parent,parentty@uk.com,castle lite,180,450,913,410850,246510,Benin,northcentral ,June,2019
+235,Gill,gillhell@uk.com,eagle lager,170,250,852,213000,68160,Senegal,Southeast,July,2017
+236,Smith,smithMan@yahoo.com,hero,150,200,856,171200,42800,Ghana,west,August,2019
+237,Jones,jone.ai@yahoo.com,beta malt,80,150,827,124050,57890,Nigeria,southsouth,September,2019
+238,Sorvino,sorvi2000@gmail.com,grand malt,90,150,735,110250,44100,Togo,northwest,October,2017
+239,Jardine,jard@gmail.com,trophy,150,200,819,163800,40950,Benin,northeast ,November,2019
+240,Andrews,andy@gmail.com,budweiser,250,500,882,441000,220500,Senegal,northcentral ,December,2018
+241,Howard,howard_freeman@yahoo.com,castle lite,180,450,897,403650,242190,Ghana,Southeast,January,2017
+242,Gill,gillhell@uk.com,eagle lager,170,250,922,230500,73760,Nigeria,west,February,2018
+243,Gill,gillhell@uk.com,hero,150,200,838,167600,41900,Togo,southsouth,March,2017
+244,Kivell,kivel_go@yahoo.com,beta malt,80,150,859,128850,60130,Benin,northwest,April,2018
+245,Jones,jone.ai@yahoo.com,grand malt,90,150,950,142500,57000,Senegal,northeast ,May,2017
+246,Morgan,morganny@gmail.com,trophy,150,200,706,141200,35300,Ghana,northcentral ,June,2019
+247,Kivell,kivel_go@yahoo.com,budweiser,250,500,702,351000,175500,Nigeria,Southeast,July,2018
+248,Sorvino,sorvi2000@gmail.com,castle lite,180,450,899,404550,242730,Togo,west,August,2019
+249,Gill,gillhell@uk.com,eagle lager,170,250,738,184500,59040,Benin,southsouth,September,2019
+250,Sorvino,sorvi2000@gmail.com,hero,150,200,917,183400,45850,Senegal,northwest,October,2017
+251,Thompson,thomp@uk.com,beta malt,80,150,783,117450,54810,Ghana,northeast ,November,2019
+252,Andrews,andy@gmail.com,grand malt,90,150,831,124650,49860,Nigeria,northcentral ,December,2019
+253,Jardine,jard@gmail.com,trophy,150,200,869,173800,43450,Togo,Southeast,January,2019
+254,Jardine,jard@gmail.com,budweiser,250,500,750,375000,187500,Benin,west,February,2017
+255,Andrews,andy@gmail.com,castle lite,180,450,931,418950,251370,Senegal,southsouth,March,2019
+256,Jardine,jard@gmail.com,eagle lager,170,250,972,243000,77760,Ghana,northwest,April,2017
+257,Gill,gillhell@uk.com,hero,150,200,985,197000,49250,Nigeria,northeast ,May,2017
+258,Sorvino,sorvi2000@gmail.com,beta malt,80,150,826,123900,57820,Togo,northcentral ,June,2018
+259,Jones,jone.ai@yahoo.com,grand malt,90,150,907,136050,54420,Benin,Southeast,July,2018
+260,Andrews,andy@gmail.com,trophy,150,200,704,140800,35200,Senegal,west,August,2019
+261,Jardine,jard@gmail.com,budweiser,250,500,719,359500,179750,Ghana,southsouth,September,2019
+262,Thompson,thomp@uk.com,castle lite,180,450,718,323100,193860,Nigeria,northwest,October,2018
+263,Jones,jone.ai@yahoo.com,eagle lager,170,250,879,219750,70320,Togo,northeast ,November,2017
+264,Morgan,morganny@gmail.com,hero,150,200,816,163200,40800,Benin,northcentral ,December,2017
+265,Howard,howard_freeman@yahoo.com,beta malt,80,150,803,120450,56210,Senegal,Southeast,January,2017
+266,Parent,parentty@uk.com,grand malt,90,150,744,111600,44640,Ghana,west,February,2018
+267,Jones,jone.ai@yahoo.com,trophy,150,200,912,182400,45600,Nigeria,southsouth,March,2017
+268,Smith,smithMan@yahoo.com,budweiser,250,500,801,400500,200250,Togo,northwest,April,2018
+269,Jones,jone.ai@yahoo.com,castle lite,180,450,720,324000,194400,Benin,northeast ,May,2018
+270,Morgan,morganny@gmail.com,eagle lager,170,250,983,245750,78640,Senegal,northcentral ,June,2019
+271,Jones,jone.ai@yahoo.com,hero,150,200,989,197800,49450,Ghana,Southeast,July,2019
+272,Parent,parentty@uk.com,beta malt,80,150,996,149400,69720,Nigeria,west,August,2018
+273,Kivell,kivel_go@yahoo.com,grand malt,90,150,801,120150,48060,Togo,southsouth,September,2017
+274,Smith,smithMan@yahoo.com,trophy,150,200,857,171400,42850,Benin,northwest,October,2019
+275,Parent,parentty@uk.com,budweiser,250,500,928,464000,232000,Senegal,northeast ,November,2018
+276,Gill,gillhell@uk.com,castle lite,180,450,788,354600,212760,Ghana,northcentral ,December,2019
+277,Smith,smithMan@yahoo.com,eagle lager,170,250,795,198750,63600,Nigeria,Southeast,January,2017
+278,Jones,jone.ai@yahoo.com,hero,150,200,865,173000,43250,Togo,west,February,2019
+279,Sorvino,sorvi2000@gmail.com,beta malt,80,150,798,119700,55860,Benin,southsouth,March,2018
+280,Jardine,jard@gmail.com,grand malt,90,150,728,109200,43680,Senegal,northwest,April,2018
+281,Andrews,andy@gmail.com,trophy,150,200,948,189600,47400,Ghana,northeast ,May,2019
+282,Howard,howard_freeman@yahoo.com,budweiser,250,500,863,431500,215750,Nigeria,northcentral ,June,2017
+283,Gill,gillhell@uk.com,castle lite,180,450,913,410850,246510,Togo,Southeast,July,2019
+284,Gill,gillhell@uk.com,eagle lager,170,250,711,177750,56880,Benin,west,August,2018
+285,Kivell,kivel_go@yahoo.com,hero,150,200,717,143400,35850,Senegal,southsouth,September,2019
+286,Jones,jone.ai@yahoo.com,beta malt,80,150,862,129300,60340,Ghana,northwest,October,2019
+287,Morgan,morganny@gmail.com,grand malt,90,150,703,105450,42180,Nigeria,northeast ,November,2017
+288,Kivell,kivel_go@yahoo.com,trophy,150,200,962,192400,48100,Togo,northcentral ,December,2018
+289,Sorvino,sorvi2000@gmail.com,budweiser,250,500,807,403500,201750,Benin,Southeast,January,2019
+290,Gill,gillhell@uk.com,castle lite,180,450,950,427500,256500,Senegal,west,February,2017
+291,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,949,237250,75920,Ghana,southsouth,March,2017
+292,Thompson,thomp@uk.com,hero,150,200,724,144800,36200,Nigeria,northwest,April,2017
+293,Andrews,andy@gmail.com,beta malt,80,150,717,107550,50190,Togo,northeast ,May,2019
+294,Jardine,jard@gmail.com,grand malt,90,150,933,139950,55980,Benin,northcentral ,June,2017
+295,Jardine,jard@gmail.com,trophy,150,200,930,186000,46500,Senegal,Southeast,July,2018
+296,Andrews,andy@gmail.com,budweiser,250,500,959,479500,239750,Ghana,west,August,2018
+297,Jones,jone.ai@yahoo.com,castle lite,180,450,922,414900,248940,Nigeria,southsouth,September,2017
+298,Morgan,morganny@gmail.com,eagle lager,170,250,957,239250,76560,Togo,northwest,October,2019
+299,Kivell,kivel_go@yahoo.com,hero,150,200,958,191600,47900,Benin,northeast ,November,2018
+300,Sorvino,sorvi2000@gmail.com,beta malt,80,150,784,117600,54880,Senegal,northcentral ,December,2018
+301,Gill,gillhell@uk.com,grand malt,90,150,966,144900,57960,Ghana,Southeast,January,2019
+302,Sorvino,sorvi2000@gmail.com,trophy,150,200,784,156800,39200,Nigeria,west,February,2018
+303,Thompson,thomp@uk.com,budweiser,250,500,998,499000,249500,Togo,southsouth,March,2017
+304,Andrews,andy@gmail.com,castle lite,180,450,951,427950,256770,Benin,northwest,April,2018
+305,Jardine,jard@gmail.com,eagle lager,170,250,973,243250,77840,Senegal,northeast ,May,2019
+306,Jardine,jard@gmail.com,hero,150,200,704,140800,35200,Ghana,northcentral ,June,2017
+307,Andrews,andy@gmail.com,beta malt,80,150,748,112200,52360,Nigeria,Southeast,July,2019
+308,Jardine,jard@gmail.com,grand malt,90,150,972,145800,58320,Togo,west,August,2017
+309,Gill,gillhell@uk.com,trophy,150,200,859,171800,42950,Benin,southsouth,September,2017
+310,Sorvino,sorvi2000@gmail.com,budweiser,250,500,825,412500,206250,Senegal,northwest,October,2017
+311,Jones,jone.ai@yahoo.com,castle lite,180,450,997,448650,269190,Ghana,northeast ,November,2019
+312,Andrews,andy@gmail.com,eagle lager,170,250,789,197250,63120,Nigeria,northcentral ,December,2019
+313,Jardine,jard@gmail.com,hero,150,200,934,186800,46700,Togo,Southeast,January,2019
+314,Thompson,thomp@uk.com,beta malt,80,150,773,115950,54110,Benin,west,February,2017
+315,Jones,jone.ai@yahoo.com,grand malt,90,150,786,117900,47160,Senegal,southsouth,March,2017
+316,Morgan,morganny@gmail.com,trophy,150,200,991,198200,49550,Ghana,northwest,April,2017
+317,Howard,howard_freeman@yahoo.com,budweiser,250,500,886,443000,221500,Nigeria,northeast ,May,2017
+318,Parent,parentty@uk.com,castle lite,180,450,987,444150,266490,Togo,northcentral ,June,2018
+319,Jones,jone.ai@yahoo.com,eagle lager,170,250,772,193000,61760,Benin,Southeast,July,2018
+320,Smith,smithMan@yahoo.com,hero,150,200,760,152000,38000,Senegal,west,August,2018
+321,Jones,jone.ai@yahoo.com,beta malt,80,150,778,116700,54460,Ghana,southsouth,September,2017
+322,Jardine,jard@gmail.com,grand malt,90,150,716,107400,42960,Nigeria,northwest,October,2019
+323,Gill,gillhell@uk.com,trophy,150,200,775,155000,38750,Togo,northeast ,November,2018
+324,Sorvino,sorvi2000@gmail.com,budweiser,250,500,860,430000,215000,Benin,northcentral ,December,2017
+325,Jones,jone.ai@yahoo.com,castle lite,180,450,895,402750,241650,Senegal,Southeast,January,2017
+326,Andrews,andy@gmail.com,eagle lager,170,250,929,232250,74320,Ghana,west,February,2019
+327,Jardine,jard@gmail.com,hero,150,200,759,151800,37950,Nigeria,southsouth,March,2018
+328,Thompson,thomp@uk.com,beta malt,80,150,765,114750,53550,Togo,northwest,April,2017
+329,Jones,jone.ai@yahoo.com,grand malt,90,150,861,129150,51660,Benin,northeast ,May,2019
+330,Morgan,morganny@gmail.com,trophy,150,200,790,158000,39500,Senegal,northcentral ,June,2018
+331,Howard,howard_freeman@yahoo.com,budweiser,250,500,831,415500,207750,Ghana,Southeast,July,2017
+332,Parent,parentty@uk.com,castle lite,180,450,879,395550,237330,Nigeria,west,August,2017
+333,Jones,jone.ai@yahoo.com,eagle lager,170,250,756,189000,60480,Togo,southsouth,September,2017
+334,Smith,smithMan@yahoo.com,hero,150,200,888,177600,44400,Benin,northwest,October,2017
+335,Jones,jone.ai@yahoo.com,beta malt,80,150,859,128850,60130,Senegal,northeast ,November,2017
+336,Morgan,morganny@gmail.com,grand malt,90,150,761,114150,45660,Ghana,northcentral ,December,2018
+337,Jones,jone.ai@yahoo.com,trophy,150,200,989,197800,49450,Nigeria,Southeast,January,2018
+338,Parent,parentty@uk.com,budweiser,250,500,824,412000,206000,Togo,west,February,2018
+339,Kivell,kivel_go@yahoo.com,castle lite,180,450,775,348750,209250,Benin,southsouth,March,2018
+340,Smith,smithMan@yahoo.com,eagle lager,170,250,980,245000,78400,Senegal,northwest,April,2017
+341,Parent,parentty@uk.com,hero,150,200,828,165600,41400,Ghana,northeast ,May,2019
+342,Gill,gillhell@uk.com,beta malt,80,150,711,106650,49770,Nigeria,northcentral ,June,2019
+343,Smith,smithMan@yahoo.com,grand malt,90,150,817,122550,49020,Togo,Southeast,July,2018
+344,Jones,jone.ai@yahoo.com,trophy,150,200,829,165800,41450,Benin,west,August,2018
+345,Sorvino,sorvi2000@gmail.com,budweiser,250,500,872,436000,218000,Senegal,southsouth,September,2018
+346,Jardine,jard@gmail.com,castle lite,180,450,715,321750,193050,Ghana,northwest,October,2018
+347,Andrews,andy@gmail.com,eagle lager,170,250,939,234750,75120,Nigeria,northeast ,November,2019
+348,Howard,howard_freeman@yahoo.com,hero,150,200,891,178200,44550,Togo,northcentral ,December,2017
+349,Gill,gillhell@uk.com,beta malt,80,150,736,110400,51520,Benin,Southeast,January,2018
+350,Gill,gillhell@uk.com,grand malt,90,150,797,119550,47820,Senegal,west,February,2017
+351,Kivell,kivel_go@yahoo.com,trophy,150,200,913,182600,45650,Ghana,southsouth,March,2017
+352,Jones,jone.ai@yahoo.com,budweiser,250,500,710,355000,177500,Nigeria,northwest,April,2017
+353,Morgan,morganny@gmail.com,castle lite,180,450,832,374400,224640,Togo,northeast ,May,2019
+354,Kivell,kivel_go@yahoo.com,eagle lager,170,250,952,238000,76160,Benin,northcentral ,June,2019
+355,Sorvino,sorvi2000@gmail.com,hero,150,200,967,193400,48350,Senegal,Southeast,July,2017
+356,Gill,gillhell@uk.com,beta malt,80,150,879,131850,61530,Ghana,west,August,2018
+357,Sorvino,sorvi2000@gmail.com,grand malt,90,150,705,105750,42300,Nigeria,southsouth,September,2018
+358,Thompson,thomp@uk.com,trophy,150,200,878,175600,43900,Togo,northwest,October,2018
+359,Andrews,andy@gmail.com,budweiser,250,500,903,451500,225750,Benin,northeast ,November,2018
+360,Jardine,jard@gmail.com,castle lite,180,450,791,355950,213570,Senegal,northcentral ,December,2018
+361,Jardine,jard@gmail.com,eagle lager,170,250,895,223750,71600,Ghana,Southeast,January,2018
+362,Andrews,andy@gmail.com,hero,150,200,759,151800,37950,Nigeria,west,February,2018
+363,Jardine,jard@gmail.com,beta malt,80,150,790,118500,55300,Togo,southsouth,March,2017
+364,Gill,gillhell@uk.com,grand malt,90,150,722,108300,43320,Benin,northwest,April,2017
+365,Sorvino,sorvi2000@gmail.com,trophy,150,200,888,177600,44400,Senegal,northeast ,May,2019
+366,Jones,jone.ai@yahoo.com,budweiser,250,500,849,424500,212250,Ghana,northcentral ,June,2018
+367,Andrews,andy@gmail.com,castle lite,180,450,736,331200,198720,Nigeria,Southeast,July,2018
+368,Jardine,jard@gmail.com,eagle lager,170,250,843,210750,67440,Togo,west,August,2019
+369,Thompson,thomp@uk.com,hero,150,200,999,199800,49950,Benin,southsouth,September,2018
+370,Jones,jone.ai@yahoo.com,beta malt,80,150,996,149400,69720,Senegal,northwest,October,2018
+371,Morgan,morganny@gmail.com,grand malt,90,150,718,107700,43080,Ghana,northeast ,November,2017
+372,Howard,howard_freeman@yahoo.com,trophy,150,200,700,140000,35000,Nigeria,northcentral ,December,2017
+373,Parent,parentty@uk.com,budweiser,250,500,827,413500,206750,Togo,Southeast,January,2018
+374,Jones,jone.ai@yahoo.com,castle lite,180,450,755,339750,203850,Benin,west,February,2018
+375,Smith,smithMan@yahoo.com,eagle lager,170,250,803,200750,64240,Senegal,southsouth,March,2019
+376,Jones,jone.ai@yahoo.com,hero,150,200,731,146200,36550,Ghana,northwest,April,2019
+377,Morgan,morganny@gmail.com,beta malt,80,150,910,136500,63700,Nigeria,northeast ,May,2019
+378,Jones,jone.ai@yahoo.com,grand malt,90,150,747,112050,44820,Togo,northcentral ,June,2017
+379,Parent,parentty@uk.com,trophy,150,200,994,198800,49700,Benin,Southeast,July,2017
+380,Kivell,kivel_go@yahoo.com,budweiser,250,500,982,491000,245500,Senegal,west,August,2017
+381,Smith,smithMan@yahoo.com,castle lite,180,450,958,431100,258660,Ghana,southsouth,September,2017
+382,Parent,parentty@uk.com,eagle lager,170,250,943,235750,75440,Nigeria,northwest,October,2017
+383,Gill,gillhell@uk.com,hero,150,200,946,189200,47300,Togo,northeast ,November,2019
+384,Smith,smithMan@yahoo.com,beta malt,80,150,852,127800,59640,Benin,northcentral ,December,2017
+385,Jones,jone.ai@yahoo.com,grand malt,90,150,960,144000,57600,Senegal,Southeast,January,2018
+386,Sorvino,sorvi2000@gmail.com,trophy,150,200,992,198400,49600,Ghana,west,February,2019
+387,Jardine,jard@gmail.com,budweiser,250,500,960,480000,240000,Nigeria,southsouth,March,2017
+388,Andrews,andy@gmail.com,castle lite,180,450,842,378900,227340,Togo,northwest,April,2018
+389,Howard,howard_freeman@yahoo.com,eagle lager,170,250,750,187500,60000,Benin,northeast ,May,2018
+390,Gill,gillhell@uk.com,hero,150,200,796,159200,39800,Senegal,northcentral ,June,2018
+391,Gill,gillhell@uk.com,beta malt,80,150,944,141600,66080,Ghana,Southeast,July,2018
+392,Kivell,kivel_go@yahoo.com,grand malt,90,150,854,128100,51240,Nigeria,west,August,2019
+393,Jones,jone.ai@yahoo.com,trophy,150,200,926,185200,46300,Togo,southsouth,September,2019
+394,Morgan,morganny@gmail.com,budweiser,250,500,808,404000,202000,Benin,northwest,October,2017
+395,Kivell,kivel_go@yahoo.com,castle lite,180,450,883,397350,238410,Senegal,northeast ,November,2019
+396,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,958,239500,76640,Ghana,northcentral ,December,2019
+397,Gill,gillhell@uk.com,hero,150,200,984,196800,49200,Nigeria,Southeast,January,2019
+398,Sorvino,sorvi2000@gmail.com,beta malt,80,150,765,114750,53550,Togo,west,February,2017
+399,Thompson,thomp@uk.com,grand malt,90,150,956,143400,57360,Benin,southsouth,March,2017
+400,Andrews,andy@gmail.com,trophy,150,200,931,186200,46550,Senegal,northwest,April,2019
+401,Jardine,jard@gmail.com,budweiser,250,500,718,359000,179500,Ghana,northeast ,May,2018
+402,Jardine,jard@gmail.com,castle lite,180,450,776,349200,209520,Nigeria,northcentral ,June,2018
+403,Andrews,andy@gmail.com,eagle lager,170,250,836,209000,66880,Togo,Southeast,July,2018
+404,Jones,jone.ai@yahoo.com,hero,150,200,730,146000,36500,Benin,west,August,2017
+405,Morgan,morganny@gmail.com,beta malt,80,150,741,111150,51870,Senegal,southsouth,September,2017
+406,Kivell,kivel_go@yahoo.com,grand malt,90,150,982,147300,58920,Ghana,northwest,October,2019
+407,Sorvino,sorvi2000@gmail.com,trophy,150,200,724,144800,36200,Nigeria,northeast ,November,2019
+408,Gill,gillhell@uk.com,budweiser,250,500,906,453000,226500,Togo,northcentral ,December,2018
+409,Sorvino,sorvi2000@gmail.com,castle lite,180,450,907,408150,244890,Benin,Southeast,January,2018
+410,Thompson,thomp@uk.com,eagle lager,170,250,712,178000,56960,Senegal,west,February,2019
+411,Andrews,andy@gmail.com,hero,150,200,859,171800,42950,Ghana,southsouth,March,2018
+412,Jardine,jard@gmail.com,beta malt,80,150,770,115500,53900,Nigeria,northwest,April,2018
+413,Jardine,jard@gmail.com,grand malt,90,150,775,116250,46500,Togo,northeast ,May,2019
+414,Andrews,andy@gmail.com,trophy,150,200,820,164000,41000,Benin,northcentral ,June,2019
+415,Jardine,jard@gmail.com,budweiser,250,500,833,416500,208250,Senegal,Southeast,July,2018
+416,Gill,gillhell@uk.com,castle lite,180,450,735,330750,198450,Ghana,west,August,2017
+417,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,884,221000,70720,Nigeria,southsouth,September,2017
+418,Jones,jone.ai@yahoo.com,hero,150,200,888,177600,44400,Togo,northwest,October,2019
+419,Andrews,andy@gmail.com,beta malt,80,150,756,113400,52920,Benin,northeast ,November,2017
+420,Jardine,jard@gmail.com,grand malt,90,150,787,118050,47220,Senegal,northcentral ,December,2019
+421,Thompson,thomp@uk.com,trophy,150,200,804,160800,40200,Ghana,Southeast,January,2018
+422,Jones,jone.ai@yahoo.com,budweiser,250,500,986,493000,246500,Nigeria,west,February,2018
+423,Morgan,morganny@gmail.com,castle lite,180,450,856,385200,231120,Togo,southsouth,March,2018
+424,Howard,howard_freeman@yahoo.com,eagle lager,170,250,835,208750,66800,Benin,northwest,April,2018
+425,Parent,parentty@uk.com,hero,150,200,938,187600,46900,Senegal,northeast ,May,2018
+426,Jones,jone.ai@yahoo.com,beta malt,80,150,719,107850,50330,Ghana,northcentral ,June,2018
+427,Smith,smithMan@yahoo.com,grand malt,90,150,868,130200,52080,Nigeria,Southeast,July,2017
+428,Jones,jone.ai@yahoo.com,trophy,150,200,885,177000,44250,Togo,west,August,2018
+429,Jardine,jard@gmail.com,budweiser,250,500,943,471500,235750,Benin,southsouth,September,2018
+430,Gill,gillhell@uk.com,castle lite,180,450,900,405000,243000,Senegal,northwest,October,2017
+431,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,950,237500,76000,Ghana,northeast ,November,2019
+432,Jones,jone.ai@yahoo.com,hero,150,200,742,148400,37100,Nigeria,northcentral ,December,2017
+433,Andrews,andy@gmail.com,beta malt,80,150,889,133350,62230,Togo,Southeast,January,2018
+434,Jardine,jard@gmail.com,grand malt,90,150,939,140850,56340,Benin,west,February,2018
+435,Thompson,thomp@uk.com,trophy,150,200,950,190000,47500,Senegal,southsouth,March,2018
+436,Jones,jone.ai@yahoo.com,budweiser,250,500,745,372500,186250,Ghana,northwest,April,2018
+437,Morgan,morganny@gmail.com,castle lite,180,450,933,419850,251910,Nigeria,northeast ,May,2017
+438,Howard,howard_freeman@yahoo.com,eagle lager,170,250,826,206500,66080,Togo,northcentral ,June,2017
+439,Parent,parentty@uk.com,hero,150,200,989,197800,49450,Benin,Southeast,July,2017
+440,Jones,jone.ai@yahoo.com,beta malt,80,150,881,132150,61670,Senegal,west,August,2019
+441,Smith,smithMan@yahoo.com,grand malt,90,150,768,115200,46080,Ghana,southsouth,September,2019
+442,Jones,jone.ai@yahoo.com,trophy,150,200,844,168800,42200,Nigeria,northwest,October,2018
+443,Morgan,morganny@gmail.com,budweiser,250,500,790,395000,197500,Togo,northeast ,November,2017
+444,Jones,jone.ai@yahoo.com,castle lite,180,450,898,404100,242460,Benin,northcentral ,December,2018
+445,Parent,parentty@uk.com,eagle lager,170,250,818,204500,65440,Senegal,Southeast,January,2018
+446,Kivell,kivel_go@yahoo.com,hero,150,200,707,141400,35350,Ghana,west,February,2018
+447,Smith,smithMan@yahoo.com,beta malt,80,150,712,106800,49840,Nigeria,southsouth,March,2017
+448,Parent,parentty@uk.com,grand malt,90,150,991,148650,59460,Togo,northwest,April,2018
+449,Gill,gillhell@uk.com,trophy,150,200,900,180000,45000,Benin,northeast ,May,2019
+450,Smith,smithMan@yahoo.com,budweiser,250,500,810,405000,202500,Senegal,northcentral ,June,2019
+451,Jones,jone.ai@yahoo.com,castle lite,180,450,740,333000,199800,Ghana,Southeast,July,2019
+452,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,909,227250,72720,Nigeria,west,August,2017
+453,Jardine,jard@gmail.com,hero,150,200,824,164800,41200,Togo,southsouth,September,2018
+454,Andrews,andy@gmail.com,beta malt,80,150,809,121350,56630,Benin,northwest,October,2017
+455,Howard,howard_freeman@yahoo.com,grand malt,90,150,819,122850,49140,Senegal,northeast ,November,2018
+456,Gill,gillhell@uk.com,trophy,150,200,865,173000,43250,Ghana,northcentral ,December,2019
+457,Gill,gillhell@uk.com,budweiser,250,500,902,451000,225500,Nigeria,Southeast,January,2019
+458,Kivell,kivel_go@yahoo.com,castle lite,180,450,796,358200,214920,Togo,west,February,2017
+459,Jones,jone.ai@yahoo.com,eagle lager,170,250,916,229000,73280,Benin,southsouth,March,2018
+460,Morgan,morganny@gmail.com,hero,150,200,982,196400,49100,Senegal,northwest,April,2017
+461,Kivell,kivel_go@yahoo.com,beta malt,80,150,734,110100,51380,Ghana,northeast ,May,2018
+462,Sorvino,sorvi2000@gmail.com,grand malt,90,150,735,110250,44100,Nigeria,northcentral ,June,2019
+463,Gill,gillhell@uk.com,trophy,150,200,747,149400,37350,Togo,Southeast,July,2017
+464,Sorvino,sorvi2000@gmail.com,budweiser,250,500,798,399000,199500,Benin,west,August,2018
+465,Thompson,thomp@uk.com,castle lite,180,450,829,373050,223830,Senegal,southsouth,September,2017
+466,Andrews,andy@gmail.com,eagle lager,170,250,729,182250,58320,Ghana,northwest,October,2017
+467,Jardine,jard@gmail.com,hero,150,200,721,144200,36050,Nigeria,northeast ,November,2019
+468,Jardine,jard@gmail.com,beta malt,80,150,709,106350,49630,Togo,northcentral ,December,2018
+469,Andrews,andy@gmail.com,grand malt,90,150,719,107850,43140,Benin,Southeast,January,2017
+470,Jardine,jard@gmail.com,trophy,150,200,875,175000,43750,Senegal,west,February,2018
+471,Gill,gillhell@uk.com,budweiser,250,500,762,381000,190500,Ghana,southsouth,March,2017
+472,Sorvino,sorvi2000@gmail.com,castle lite,180,450,964,433800,260280,Nigeria,northwest,April,2017
+473,Jones,jone.ai@yahoo.com,eagle lager,170,250,931,232750,74480,Togo,northeast ,May,2018
+474,Andrews,andy@gmail.com,hero,150,200,766,153200,38300,Benin,northcentral ,June,2019
+475,Jardine,jard@gmail.com,beta malt,80,150,746,111900,52220,Senegal,Southeast,July,2018
+476,Thompson,thomp@uk.com,grand malt,90,150,942,141300,56520,Ghana,west,August,2017
+477,Jones,jone.ai@yahoo.com,trophy,150,200,724,144800,36200,Nigeria,southsouth,September,2019
+478,Morgan,morganny@gmail.com,budweiser,250,500,887,443500,221750,Togo,northwest,October,2018
+479,Howard,howard_freeman@yahoo.com,castle lite,180,450,703,316350,189810,Benin,northeast ,November,2017
+480,Parent,parentty@uk.com,eagle lager,170,250,930,232500,74400,Senegal,northcentral ,December,2018
+481,Jones,jone.ai@yahoo.com,hero,150,200,867,173400,43350,Ghana,Southeast,January,2017
+482,Smith,smithMan@yahoo.com,beta malt,80,150,853,127950,59710,Nigeria,west,February,2018
+483,Jones,jone.ai@yahoo.com,grand malt,90,150,794,119100,47640,Togo,southsouth,March,2018
+484,Morgan,morganny@gmail.com,trophy,150,200,974,194800,48700,Benin,northwest,April,2018
+485,Jones,jone.ai@yahoo.com,budweiser,250,500,778,389000,194500,Senegal,northeast ,May,2019
+486,Parent,parentty@uk.com,castle lite,180,450,939,422550,253530,Ghana,northcentral ,June,2018
+487,Kivell,kivel_go@yahoo.com,eagle lager,170,250,763,190750,61040,Nigeria,Southeast,July,2017
+488,Smith,smithMan@yahoo.com,hero,150,200,970,194000,48500,Togo,west,August,2019
+489,Parent,parentty@uk.com,beta malt,80,150,808,121200,56560,Benin,southsouth,September,2017
+490,Gill,gillhell@uk.com,grand malt,90,150,952,142800,57120,Senegal,northwest,October,2019
+491,Smith,smithMan@yahoo.com,trophy,150,200,918,183600,45900,Ghana,northeast ,November,2019
+492,Jones,jone.ai@yahoo.com,budweiser,250,500,934,467000,233500,Nigeria,northcentral ,December,2018
+493,Sorvino,sorvi2000@gmail.com,castle lite,180,450,753,338850,203310,Togo,Southeast,January,2019
+494,Jardine,jard@gmail.com,eagle lager,170,250,740,185000,59200,Benin,west,February,2018
+495,Andrews,andy@gmail.com,hero,150,200,829,165800,41450,Senegal,southsouth,March,2018
+496,Howard,howard_freeman@yahoo.com,beta malt,80,150,977,146550,68390,Ghana,northwest,April,2018
+497,Gill,gillhell@uk.com,grand malt,90,150,968,145200,58080,Nigeria,northeast ,May,2018
+498,Gill,gillhell@uk.com,trophy,150,200,797,159400,39850,Togo,northcentral ,June,2017
+499,Kivell,kivel_go@yahoo.com,budweiser,250,500,926,463000,231500,Benin,Southeast,July,2018
+500,Jones,jone.ai@yahoo.com,castle lite,180,450,925,416250,249750,Senegal,west,August,2019
+501,Morgan,morganny@gmail.com,eagle lager,170,250,911,227750,72880,Ghana,southsouth,September,2017
+502,Kivell,kivel_go@yahoo.com,hero,150,200,709,141800,35450,Nigeria,northwest,October,2017
+503,Sorvino,sorvi2000@gmail.com,beta malt,80,150,791,118650,55370,Togo,northeast ,November,2019
+504,Gill,gillhell@uk.com,grand malt,90,150,702,105300,42120,Benin,northcentral ,December,2018
+505,Sorvino,sorvi2000@gmail.com,trophy,150,200,922,184400,46100,Senegal,Southeast,January,2017
+506,Thompson,thomp@uk.com,budweiser,250,500,957,478500,239250,Ghana,west,February,2019
+507,Andrews,andy@gmail.com,castle lite,180,450,811,364950,218970,Nigeria,southsouth,March,2017
+508,Jardine,jard@gmail.com,eagle lager,170,250,776,194000,62080,Togo,northwest,April,2018
+509,Jardine,jard@gmail.com,hero,150,200,998,199600,49900,Benin,northeast ,May,2018
+510,Andrews,andy@gmail.com,beta malt,80,150,872,130800,61040,Senegal,northcentral ,June,2017
+511,Jones,jone.ai@yahoo.com,grand malt,90,150,763,114450,45780,Ghana,Southeast,July,2019
+512,Morgan,morganny@gmail.com,trophy,150,200,822,164400,41100,Nigeria,west,August,2017
+513,Kivell,kivel_go@yahoo.com,budweiser,250,500,721,360500,180250,Togo,southsouth,September,2018
+514,Sorvino,sorvi2000@gmail.com,castle lite,180,450,890,400500,240300,Benin,northwest,October,2017
+515,Gill,gillhell@uk.com,eagle lager,170,250,860,215000,68800,Senegal,northeast ,November,2019
+516,Sorvino,sorvi2000@gmail.com,hero,150,200,824,164800,41200,Ghana,northcentral ,December,2017
+517,Thompson,thomp@uk.com,beta malt,80,150,916,137400,64120,Nigeria,Southeast,January,2017
+518,Andrews,andy@gmail.com,grand malt,90,150,855,128250,51300,Togo,west,February,2019
+519,Jardine,jard@gmail.com,trophy,150,200,715,143000,35750,Benin,southsouth,March,2018
+520,Jardine,jard@gmail.com,budweiser,250,500,940,470000,235000,Senegal,northwest,April,2019
+521,Andrews,andy@gmail.com,castle lite,180,450,847,381150,228690,Ghana,northeast ,May,2019
+522,Jardine,jard@gmail.com,eagle lager,170,250,889,222250,71120,Nigeria,northcentral ,June,2017
+523,Gill,gillhell@uk.com,hero,150,200,928,185600,46400,Togo,Southeast,July,2019
+524,Sorvino,sorvi2000@gmail.com,beta malt,80,150,943,141450,66010,Benin,west,August,2019
+525,Jones,jone.ai@yahoo.com,grand malt,90,150,716,107400,42960,Senegal,southsouth,September,2018
+526,Andrews,andy@gmail.com,trophy,150,200,757,151400,37850,Ghana,northwest,October,2018
+527,Jardine,jard@gmail.com,budweiser,250,500,795,397500,198750,Nigeria,northeast ,November,2017
+528,Thompson,thomp@uk.com,castle lite,180,450,940,423000,253800,Togo,northcentral ,December,2019
+529,Jones,jone.ai@yahoo.com,eagle lager,170,250,899,224750,71920,Benin,Southeast,January,2019
+530,Morgan,morganny@gmail.com,hero,150,200,907,181400,45350,Senegal,west,February,2018
+531,Howard,howard_freeman@yahoo.com,beta malt,80,150,929,139350,65030,Ghana,southsouth,March,2019
+532,Parent,parentty@uk.com,grand malt,90,150,790,118500,47400,Nigeria,northwest,April,2018
+533,Jones,jone.ai@yahoo.com,trophy,150,200,939,187800,46950,Togo,northeast ,May,2018
+534,Smith,smithMan@yahoo.com,budweiser,250,500,720,360000,180000,Benin,northcentral ,June,2019
+535,Jones,jone.ai@yahoo.com,castle lite,180,450,745,335250,201150,Senegal,Southeast,July,2018
+536,Jardine,jard@gmail.com,eagle lager,170,250,846,211500,67680,Ghana,west,August,2017
+537,Gill,gillhell@uk.com,hero,150,200,937,187400,46850,Nigeria,southsouth,September,2018
+538,Sorvino,sorvi2000@gmail.com,beta malt,80,150,874,131100,61180,Togo,northwest,October,2018
+539,Jones,jone.ai@yahoo.com,grand malt,90,150,822,123300,49320,Benin,northeast ,November,2018
+540,Andrews,andy@gmail.com,trophy,150,200,737,147400,36850,Senegal,northcentral ,December,2017
+541,Jardine,jard@gmail.com,budweiser,250,500,759,379500,189750,Ghana,Southeast,January,2018
+542,Thompson,thomp@uk.com,castle lite,180,450,877,394650,236790,Nigeria,west,February,2018
+543,Jones,jone.ai@yahoo.com,eagle lager,170,250,874,218500,69920,Togo,southsouth,March,2017
+544,Morgan,morganny@gmail.com,hero,150,200,763,152600,38150,Benin,northwest,April,2018
+545,Howard,howard_freeman@yahoo.com,beta malt,80,150,793,118950,55510,Senegal,northeast ,May,2018
+546,Parent,parentty@uk.com,grand malt,90,150,937,140550,56220,Ghana,northcentral ,June,2019
+547,Jones,jone.ai@yahoo.com,trophy,150,200,865,173000,43250,Nigeria,Southeast,July,2018
+548,Smith,smithMan@yahoo.com,budweiser,250,500,942,471000,235500,Togo,west,August,2019
+549,Jones,jone.ai@yahoo.com,castle lite,180,450,815,366750,220050,Benin,southsouth,September,2017
+550,Morgan,morganny@gmail.com,eagle lager,170,250,958,239500,76640,Senegal,northwest,October,2019
+551,Jones,jone.ai@yahoo.com,hero,150,200,869,173800,43450,Ghana,northeast ,November,2018
+552,Parent,parentty@uk.com,beta malt,80,150,750,112500,52500,Nigeria,northcentral ,December,2018
+553,Kivell,kivel_go@yahoo.com,grand malt,90,150,702,105300,42120,Togo,Southeast,January,2017
+554,Smith,smithMan@yahoo.com,trophy,150,200,917,183400,45850,Benin,west,February,2019
+555,Parent,parentty@uk.com,budweiser,250,500,914,457000,228500,Senegal,southsouth,March,2019
+556,Gill,gillhell@uk.com,castle lite,180,450,817,367650,220590,Ghana,northwest,April,2018
+557,Smith,smithMan@yahoo.com,eagle lager,170,250,913,228250,73040,Nigeria,northeast ,May,2018
+558,Jones,jone.ai@yahoo.com,hero,150,200,705,141000,35250,Togo,northcentral ,June,2018
+559,Sorvino,sorvi2000@gmail.com,beta malt,80,150,964,144600,67480,Benin,Southeast,July,2017
+560,Jardine,jard@gmail.com,grand malt,90,150,891,133650,53460,Senegal,west,August,2017
+561,Andrews,andy@gmail.com,trophy,150,200,977,195400,48850,Ghana,southsouth,September,2019
+562,Howard,howard_freeman@yahoo.com,budweiser,250,500,948,474000,237000,Nigeria,northwest,October,2019
+563,Gill,gillhell@uk.com,castle lite,180,450,751,337950,202770,Togo,northeast ,November,2017
+564,Gill,gillhell@uk.com,eagle lager,170,250,827,206750,66160,Benin,northcentral ,December,2017
+565,Kivell,kivel_go@yahoo.com,hero,150,200,943,188600,47150,Senegal,Southeast,January,2019
+566,Jones,jone.ai@yahoo.com,beta malt,80,150,901,135150,63070,Ghana,west,February,2019
+567,Morgan,morganny@gmail.com,grand malt,90,150,907,136050,54420,Nigeria,southsouth,March,2019
+568,Kivell,kivel_go@yahoo.com,trophy,150,200,755,151000,37750,Togo,northwest,April,2018
+569,Sorvino,sorvi2000@gmail.com,budweiser,250,500,802,401000,200500,Benin,northeast ,May,2017
+570,Gill,gillhell@uk.com,castle lite,180,450,919,413550,248130,Senegal,northcentral ,June,2019
+571,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,824,206000,65920,Ghana,Southeast,July,2017
+572,Thompson,thomp@uk.com,hero,150,200,730,146000,36500,Nigeria,west,August,2017
+573,Andrews,andy@gmail.com,beta malt,80,150,798,119700,55860,Togo,southsouth,September,2018
+574,Jardine,jard@gmail.com,grand malt,90,150,811,121650,48660,Benin,northwest,October,2018
+575,Jardine,jard@gmail.com,trophy,150,200,912,182400,45600,Senegal,northeast ,November,2018
+576,Andrews,andy@gmail.com,budweiser,250,500,836,418000,209000,Ghana,northcentral ,December,2017
+577,Jardine,jard@gmail.com,castle lite,180,450,953,428850,257310,Nigeria,Southeast,January,2018
+578,Gill,gillhell@uk.com,eagle lager,170,250,908,227000,72640,Togo,west,February,2018
+579,Sorvino,sorvi2000@gmail.com,hero,150,200,859,171800,42950,Benin,southsouth,March,2019
+580,Jones,jone.ai@yahoo.com,beta malt,80,150,928,139200,64960,Senegal,northwest,April,2017
+581,Andrews,andy@gmail.com,grand malt,90,150,716,107400,42960,Ghana,northeast ,May,2019
+582,Jardine,jard@gmail.com,trophy,150,200,946,189200,47300,Nigeria,northcentral ,June,2017
+583,Thompson,thomp@uk.com,budweiser,250,500,913,456500,228250,Togo,Southeast,July,2018
+584,Jones,jone.ai@yahoo.com,castle lite,180,450,947,426150,255690,Benin,west,August,2019
+585,Morgan,morganny@gmail.com,eagle lager,170,250,743,185750,59440,Senegal,southsouth,September,2018
+586,Howard,howard_freeman@yahoo.com,hero,150,200,788,157600,39400,Ghana,northwest,October,2018
+587,Parent,parentty@uk.com,beta malt,80,150,810,121500,56700,Nigeria,northeast ,November,2017
+588,Jones,jone.ai@yahoo.com,grand malt,90,150,784,117600,47040,Togo,northcentral ,December,2018
+589,Smith,smithMan@yahoo.com,trophy,150,200,813,162600,40650,Benin,Southeast,January,2017
+590,Jones,jone.ai@yahoo.com,budweiser,250,500,998,499000,249500,Senegal,west,February,2017
+591,Morgan,morganny@gmail.com,castle lite,180,450,889,400050,240030,Ghana,southsouth,March,2018
+592,Jones,jone.ai@yahoo.com,eagle lager,170,250,783,195750,62640,Nigeria,northwest,April,2019
+593,Parent,parentty@uk.com,hero,150,200,866,173200,43300,Togo,northeast ,May,2017
+594,Kivell,kivel_go@yahoo.com,beta malt,80,150,840,126000,58800,Benin,northcentral ,June,2018
+595,Smith,smithMan@yahoo.com,grand malt,90,150,905,135750,54300,Senegal,Southeast,July,2017
+596,Parent,parentty@uk.com,trophy,150,200,814,162800,40700,Ghana,west,August,2019
+597,Gill,gillhell@uk.com,budweiser,250,500,878,439000,219500,Nigeria,southsouth,September,2018
+598,Smith,smithMan@yahoo.com,castle lite,180,450,819,368550,221130,Togo,northwest,October,2018
+599,Jones,jone.ai@yahoo.com,eagle lager,170,250,899,224750,71920,Benin,northeast ,November,2019
+600,Sorvino,sorvi2000@gmail.com,hero,150,200,897,179400,44850,Senegal,northcentral ,December,2019
+601,Jardine,jard@gmail.com,beta malt,80,150,753,112950,52710,Ghana,Southeast,January,2017
+602,Andrews,andy@gmail.com,grand malt,90,150,781,117150,46860,Nigeria,west,February,2018
+603,Howard,howard_freeman@yahoo.com,trophy,150,200,911,182200,45550,Togo,southsouth,March,2018
+604,Gill,gillhell@uk.com,budweiser,250,500,730,365000,182500,Benin,northwest,April,2018
+605,Gill,gillhell@uk.com,castle lite,180,450,912,410400,246240,Senegal,northeast ,May,2017
+606,Kivell,kivel_go@yahoo.com,eagle lager,170,250,755,188750,60400,Ghana,northcentral ,June,2019
+607,Jones,jone.ai@yahoo.com,hero,150,200,981,196200,49050,Nigeria,Southeast,July,2018
+608,Morgan,morganny@gmail.com,beta malt,80,150,914,137100,63980,Togo,west,August,2018
+609,Kivell,kivel_go@yahoo.com,grand malt,90,150,705,105750,42300,Benin,southsouth,September,2019
+610,Sorvino,sorvi2000@gmail.com,trophy,150,200,774,154800,38700,Senegal,northwest,October,2018
+611,Gill,gillhell@uk.com,budweiser,250,500,748,374000,187000,Ghana,northeast ,November,2017
+612,Sorvino,sorvi2000@gmail.com,castle lite,180,450,807,363150,217890,Nigeria,northcentral ,December,2018
+613,Thompson,thomp@uk.com,eagle lager,170,250,877,219250,70160,Togo,Southeast,January,2018
+614,Andrews,andy@gmail.com,hero,150,200,965,193000,48250,Benin,west,February,2017
+615,Jardine,jard@gmail.com,beta malt,80,150,728,109200,50960,Senegal,southsouth,March,2017
+616,Jardine,jard@gmail.com,grand malt,90,150,792,118800,47520,Ghana,northwest,April,2017
+617,Andrews,andy@gmail.com,trophy,150,200,878,175600,43900,Nigeria,northeast ,May,2017
+618,Jones,jone.ai@yahoo.com,budweiser,250,500,886,443000,221500,Togo,northcentral ,June,2017
+619,Morgan,morganny@gmail.com,castle lite,180,450,995,447750,268650,Benin,Southeast,July,2017
+620,Kivell,kivel_go@yahoo.com,eagle lager,170,250,851,212750,68080,Senegal,west,August,2019
+621,Sorvino,sorvi2000@gmail.com,hero,150,200,866,173200,43300,Ghana,southsouth,September,2017
+622,Gill,gillhell@uk.com,beta malt,80,150,987,148050,69090,Nigeria,northwest,October,2017
+623,Sorvino,sorvi2000@gmail.com,grand malt,90,150,776,116400,46560,Togo,northeast ,November,2019
+624,Thompson,thomp@uk.com,trophy,150,200,969,193800,48450,Benin,northcentral ,December,2017
+625,Andrews,andy@gmail.com,budweiser,250,500,718,359000,179500,Senegal,Southeast,January,2017
+626,Jardine,jard@gmail.com,castle lite,180,450,787,354150,212490,Ghana,west,February,2018
+627,Jardine,jard@gmail.com,eagle lager,170,250,901,225250,72080,Nigeria,southsouth,March,2018
+628,Andrews,andy@gmail.com,hero,150,200,736,147200,36800,Togo,northwest,April,2018
+629,Jardine,jard@gmail.com,beta malt,80,150,710,106500,49700,Benin,northeast ,May,2017
+630,Gill,gillhell@uk.com,grand malt,90,150,719,107850,43140,Senegal,northcentral ,June,2019
+631,Sorvino,sorvi2000@gmail.com,trophy,150,200,738,147600,36900,Ghana,Southeast,July,2017
+632,Jones,jone.ai@yahoo.com,budweiser,250,500,884,442000,221000,Nigeria,west,August,2019
+633,Andrews,andy@gmail.com,castle lite,180,450,772,347400,208440,Togo,southsouth,September,2017
+634,Jardine,jard@gmail.com,eagle lager,170,250,762,190500,60960,Benin,northwest,October,2017
+635,Thompson,thomp@uk.com,hero,150,200,830,166000,41500,Senegal,northeast ,November,2018
+636,Jones,jone.ai@yahoo.com,beta malt,80,150,995,149250,69650,Ghana,northcentral ,December,2018
+637,Morgan,morganny@gmail.com,grand malt,90,150,812,121800,48720,Nigeria,Southeast,January,2019
+638,Howard,howard_freeman@yahoo.com,trophy,150,200,993,198600,49650,Togo,west,February,2018
+639,Parent,parentty@uk.com,budweiser,250,500,941,470500,235250,Benin,southsouth,March,2017
+640,Jones,jone.ai@yahoo.com,castle lite,180,450,703,316350,189810,Senegal,northwest,April,2019
+641,Smith,smithMan@yahoo.com,eagle lager,170,250,834,208500,66720,Ghana,northeast ,May,2019
+642,Jones,jone.ai@yahoo.com,hero,150,200,843,168600,42150,Nigeria,northcentral ,June,2019
+643,Jardine,jard@gmail.com,beta malt,80,150,749,112350,52430,Togo,Southeast,July,2019
+644,Gill,gillhell@uk.com,grand malt,90,150,859,128850,51540,Benin,west,August,2017
+645,Sorvino,sorvi2000@gmail.com,trophy,150,200,962,192400,48100,Senegal,southsouth,September,2017
+646,Jones,jone.ai@yahoo.com,budweiser,250,500,816,408000,204000,Ghana,northwest,October,2019
+647,Andrews,andy@gmail.com,castle lite,180,450,989,445050,267030,Nigeria,northeast ,November,2017
+648,Jardine,jard@gmail.com,eagle lager,170,250,702,175500,56160,Togo,northcentral ,December,2018
+649,Thompson,thomp@uk.com,hero,150,200,830,166000,41500,Benin,Southeast,January,2018
+650,Jones,jone.ai@yahoo.com,beta malt,80,150,710,106500,49700,Senegal,west,February,2018
+651,Morgan,morganny@gmail.com,grand malt,90,150,708,106200,42480,Ghana,southsouth,March,2018
+652,Howard,howard_freeman@yahoo.com,trophy,150,200,816,163200,40800,Nigeria,northwest,April,2019
+653,Parent,parentty@uk.com,budweiser,250,500,722,361000,180500,Togo,northeast ,May,2017
+654,Jones,jone.ai@yahoo.com,castle lite,180,450,778,350100,210060,Benin,northcentral ,June,2017
+655,Smith,smithMan@yahoo.com,eagle lager,170,250,732,183000,58560,Senegal,Southeast,July,2019
+656,Jones,jone.ai@yahoo.com,hero,150,200,881,176200,44050,Ghana,west,August,2018
+657,Morgan,morganny@gmail.com,beta malt,80,150,939,140850,65730,Nigeria,southsouth,September,2017
+658,Jones,jone.ai@yahoo.com,grand malt,90,150,907,136050,54420,Togo,northwest,October,2019
+659,Parent,parentty@uk.com,trophy,150,200,709,141800,35450,Benin,northeast ,November,2019
+660,Kivell,kivel_go@yahoo.com,budweiser,250,500,886,443000,221500,Senegal,northcentral ,December,2017
+661,Smith,smithMan@yahoo.com,castle lite,180,450,828,372600,223560,Ghana,Southeast,January,2017
+662,Parent,parentty@uk.com,eagle lager,170,250,700,175000,56000,Nigeria,west,February,2019
+663,Gill,gillhell@uk.com,hero,150,200,928,185600,46400,Togo,southsouth,March,2018
+664,Smith,smithMan@yahoo.com,beta malt,80,150,737,110550,51590,Benin,northwest,April,2018
+665,Jones,jone.ai@yahoo.com,grand malt,90,150,986,147900,59160,Senegal,northeast ,May,2019
+666,Sorvino,sorvi2000@gmail.com,trophy,150,200,733,146600,36650,Ghana,northcentral ,June,2018
+667,Jardine,jard@gmail.com,budweiser,250,500,769,384500,192250,Nigeria,Southeast,July,2017
+668,Andrews,andy@gmail.com,castle lite,180,450,782,351900,211140,Togo,west,August,2017
+669,Howard,howard_freeman@yahoo.com,eagle lager,170,250,755,188750,60400,Benin,southsouth,September,2017
+670,Gill,gillhell@uk.com,hero,150,200,980,196000,49000,Senegal,northwest,October,2019
+671,Gill,gillhell@uk.com,beta malt,80,150,755,113250,52850,Ghana,northeast ,November,2019
+672,Kivell,kivel_go@yahoo.com,grand malt,90,150,804,120600,48240,Nigeria,northcentral ,December,2019
+673,Jones,jone.ai@yahoo.com,trophy,150,200,821,164200,41050,Togo,Southeast,January,2017
+674,Morgan,morganny@gmail.com,budweiser,250,500,768,384000,192000,Benin,west,February,2017
+675,Kivell,kivel_go@yahoo.com,castle lite,180,450,929,418050,250830,Senegal,southsouth,March,2019
+676,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,938,234500,75040,Ghana,northwest,April,2018
+677,Gill,gillhell@uk.com,hero,150,200,776,155200,38800,Nigeria,northeast ,May,2018
+678,Sorvino,sorvi2000@gmail.com,beta malt,80,150,830,124500,58100,Togo,northcentral ,June,2018
+679,Thompson,thomp@uk.com,grand malt,90,150,881,132150,52860,Benin,Southeast,July,2017
+680,Andrews,andy@gmail.com,trophy,150,200,854,170800,42700,Senegal,west,August,2019
+681,Jardine,jard@gmail.com,budweiser,250,500,843,421500,210750,Ghana,southsouth,September,2017
+682,Jardine,jard@gmail.com,castle lite,180,450,927,417150,250290,Nigeria,northwest,October,2019
+683,Andrews,andy@gmail.com,eagle lager,170,250,988,247000,79040,Togo,northeast ,November,2019
+684,Jardine,jard@gmail.com,hero,150,200,864,172800,43200,Benin,northcentral ,December,2018
+685,Gill,gillhell@uk.com,beta malt,80,150,952,142800,66640,Senegal,Southeast,January,2017
+686,Sorvino,sorvi2000@gmail.com,grand malt,90,150,817,122550,49020,Ghana,west,February,2018
+687,Jones,jone.ai@yahoo.com,trophy,150,200,980,196000,49000,Nigeria,southsouth,March,2018
+688,Andrews,andy@gmail.com,budweiser,250,500,826,413000,206500,Togo,northwest,April,2019
+689,Jardine,jard@gmail.com,castle lite,180,450,864,388800,233280,Benin,northeast ,May,2017
+690,Thompson,thomp@uk.com,eagle lager,170,250,737,184250,58960,Senegal,northcentral ,June,2018
+691,Jones,jone.ai@yahoo.com,hero,150,200,773,154600,38650,Ghana,Southeast,July,2018
+692,Morgan,morganny@gmail.com,beta malt,80,150,902,135300,63140,Nigeria,west,August,2019
+693,Howard,howard_freeman@yahoo.com,grand malt,90,150,888,133200,53280,Togo,southsouth,September,2019
+694,Parent,parentty@uk.com,trophy,150,200,893,178600,44650,Benin,northwest,October,2019
+695,Jones,jone.ai@yahoo.com,budweiser,250,500,718,359000,179500,Senegal,northeast ,November,2017
+696,Smith,smithMan@yahoo.com,castle lite,180,450,744,334800,200880,Ghana,northcentral ,December,2017
+697,Jones,jone.ai@yahoo.com,eagle lager,170,250,959,239750,76720,Nigeria,Southeast,January,2017
+698,Morgan,morganny@gmail.com,hero,150,200,976,195200,48800,Togo,west,February,2017
+699,Jones,jone.ai@yahoo.com,beta malt,80,150,940,141000,65800,Benin,southsouth,March,2018
+700,Parent,parentty@uk.com,grand malt,90,150,956,143400,57360,Senegal,northwest,April,2019
+701,Kivell,kivel_go@yahoo.com,trophy,150,200,908,181600,45400,Ghana,northeast ,May,2018
+702,Smith,smithMan@yahoo.com,budweiser,250,500,866,433000,216500,Nigeria,northcentral ,June,2018
+703,Parent,parentty@uk.com,castle lite,180,450,735,330750,198450,Togo,Southeast,July,2019
+704,Gill,gillhell@uk.com,eagle lager,170,250,802,200500,64160,Benin,west,August,2017
+705,Smith,smithMan@yahoo.com,hero,150,200,976,195200,48800,Senegal,southsouth,September,2018
+706,Jones,jone.ai@yahoo.com,beta malt,80,150,914,137100,63980,Ghana,northwest,October,2017
+707,Sorvino,sorvi2000@gmail.com,grand malt,90,150,821,123150,49260,Nigeria,northeast ,November,2017
+708,Jardine,jard@gmail.com,trophy,150,200,804,160800,40200,Togo,northcentral ,December,2017
+709,Andrews,andy@gmail.com,budweiser,250,500,946,473000,236500,Benin,Southeast,January,2017
+710,Howard,howard_freeman@yahoo.com,castle lite,180,450,997,448650,269190,Senegal,west,February,2019
+711,Gill,gillhell@uk.com,eagle lager,170,250,770,192500,61600,Ghana,southsouth,March,2019
+712,Gill,gillhell@uk.com,hero,150,200,901,180200,45050,Nigeria,northwest,April,2017
+713,Kivell,kivel_go@yahoo.com,beta malt,80,150,719,107850,50330,Togo,northeast ,May,2019
+714,Jones,jone.ai@yahoo.com,grand malt,90,150,933,139950,55980,Benin,northcentral ,June,2018
+715,Morgan,morganny@gmail.com,trophy,150,200,992,198400,49600,Senegal,Southeast,July,2017
+716,Kivell,kivel_go@yahoo.com,budweiser,250,500,818,409000,204500,Ghana,west,August,2018
+717,Sorvino,sorvi2000@gmail.com,castle lite,180,450,828,372600,223560,Nigeria,southsouth,September,2017
+718,Gill,gillhell@uk.com,eagle lager,170,250,758,189500,60640,Togo,northwest,October,2017
+719,Sorvino,sorvi2000@gmail.com,hero,150,200,787,157400,39350,Benin,northeast ,November,2018
+720,Thompson,thomp@uk.com,beta malt,80,150,929,139350,65030,Senegal,northcentral ,December,2019
+721,Andrews,andy@gmail.com,grand malt,90,150,785,117750,47100,Ghana,Southeast,January,2019
+722,Jardine,jard@gmail.com,trophy,150,200,701,140200,35050,Nigeria,west,February,2017
+723,Jardine,jard@gmail.com,budweiser,250,500,757,378500,189250,Togo,southsouth,March,2019
+724,Andrews,andy@gmail.com,castle lite,180,450,810,364500,218700,Benin,northwest,April,2019
+725,Jones,jone.ai@yahoo.com,eagle lager,170,250,874,218500,69920,Senegal,northeast ,May,2017
+726,Morgan,morganny@gmail.com,hero,150,200,820,164000,41000,Ghana,northcentral ,June,2018
+727,Kivell,kivel_go@yahoo.com,beta malt,80,150,874,131100,61180,Nigeria,Southeast,July,2018
+728,Sorvino,sorvi2000@gmail.com,grand malt,90,150,958,143700,57480,Togo,west,August,2019
+729,Gill,gillhell@uk.com,trophy,150,200,742,148400,37100,Benin,southsouth,September,2018
+730,Sorvino,sorvi2000@gmail.com,budweiser,250,500,973,486500,243250,Senegal,northwest,October,2018
+731,Thompson,thomp@uk.com,castle lite,180,450,961,432450,259470,Ghana,northeast ,November,2017
+732,Andrews,andy@gmail.com,eagle lager,170,250,752,188000,60160,Nigeria,northcentral ,December,2017
+733,Jardine,jard@gmail.com,hero,150,200,938,187600,46900,Togo,Southeast,January,2018
+734,Jardine,jard@gmail.com,beta malt,80,150,777,116550,54390,Benin,west,February,2018
+735,Andrews,andy@gmail.com,grand malt,90,150,855,128250,51300,Senegal,southsouth,March,2018
+736,Jardine,jard@gmail.com,trophy,150,200,870,174000,43500,Ghana,northwest,April,2017
+737,Gill,gillhell@uk.com,budweiser,250,500,922,461000,230500,Nigeria,northeast ,May,2018
+738,Sorvino,sorvi2000@gmail.com,castle lite,180,450,856,385200,231120,Togo,northcentral ,June,2018
+739,Jones,jone.ai@yahoo.com,eagle lager,170,250,852,213000,68160,Benin,Southeast,July,2018
+740,Andrews,andy@gmail.com,hero,150,200,981,196200,49050,Senegal,west,August,2018
+741,Jardine,jard@gmail.com,beta malt,80,150,910,136500,63700,Ghana,southsouth,September,2017
+742,Thompson,thomp@uk.com,grand malt,90,150,805,120750,48300,Nigeria,northwest,October,2018
+743,Jones,jone.ai@yahoo.com,trophy,150,200,932,186400,46600,Togo,northeast ,November,2018
+744,Morgan,morganny@gmail.com,budweiser,250,500,891,445500,222750,Benin,northcentral ,December,2018
+745,Howard,howard_freeman@yahoo.com,castle lite,180,450,803,361350,216810,Senegal,Southeast,January,2018
+746,Parent,parentty@uk.com,eagle lager,170,250,818,204500,65440,Ghana,west,February,2017
+747,Jones,jone.ai@yahoo.com,hero,150,200,932,186400,46600,Nigeria,southsouth,March,2019
+748,Smith,smithMan@yahoo.com,beta malt,80,150,893,133950,62510,Togo,northwest,April,2019
+749,Jones,jone.ai@yahoo.com,grand malt,90,150,824,123600,49440,Benin,northeast ,May,2019
+750,Jardine,jard@gmail.com,trophy,150,200,931,186200,46550,Senegal,northcentral ,June,2019
+751,Gill,gillhell@uk.com,budweiser,250,500,783,391500,195750,Ghana,Southeast,July,2019
+752,Sorvino,sorvi2000@gmail.com,castle lite,180,450,708,318600,191160,Nigeria,west,August,2017
+753,Jones,jone.ai@yahoo.com,eagle lager,170,250,861,215250,68880,Togo,southsouth,September,2017
+754,Andrews,andy@gmail.com,hero,150,200,798,159600,39900,Benin,northwest,October,2017
+755,Jardine,jard@gmail.com,beta malt,80,150,934,140100,65380,Senegal,northeast ,November,2019
+756,Thompson,thomp@uk.com,grand malt,90,150,950,142500,57000,Ghana,northcentral ,December,2017
+757,Jones,jone.ai@yahoo.com,trophy,150,200,986,197200,49300,Nigeria,Southeast,January,2018
+758,Morgan,morganny@gmail.com,budweiser,250,500,767,383500,191750,Togo,west,February,2017
+759,Howard,howard_freeman@yahoo.com,castle lite,180,450,898,404100,242460,Benin,southsouth,March,2017
+760,Parent,parentty@uk.com,eagle lager,170,250,859,214750,68720,Senegal,northwest,April,2018
+761,Jones,jone.ai@yahoo.com,hero,150,200,934,186800,46700,Ghana,northeast ,May,2019
+762,Smith,smithMan@yahoo.com,beta malt,80,150,879,131850,61530,Nigeria,northcentral ,June,2017
+763,Jones,jone.ai@yahoo.com,grand malt,90,150,872,130800,52320,Togo,Southeast,July,2017
+764,Morgan,morganny@gmail.com,trophy,150,200,991,198200,49550,Benin,west,August,2018
+765,Jones,jone.ai@yahoo.com,budweiser,250,500,738,369000,184500,Senegal,southsouth,September,2018
+766,Parent,parentty@uk.com,castle lite,180,450,849,382050,229230,Ghana,northwest,October,2018
+767,Kivell,kivel_go@yahoo.com,eagle lager,170,250,997,249250,79760,Nigeria,northeast ,November,2017
+768,Smith,smithMan@yahoo.com,hero,150,200,842,168400,42100,Togo,northcentral ,December,2017
+769,Parent,parentty@uk.com,beta malt,80,150,866,129900,60620,Benin,Southeast,January,2019
+770,Gill,gillhell@uk.com,grand malt,90,150,904,135600,54240,Senegal,west,February,2018
+771,Smith,smithMan@yahoo.com,trophy,150,200,977,195400,48850,Ghana,southsouth,March,2018
+772,Jones,jone.ai@yahoo.com,budweiser,250,500,848,424000,212000,Nigeria,northwest,April,2017
+773,Sorvino,sorvi2000@gmail.com,castle lite,180,450,924,415800,249480,Togo,northeast ,May,2017
+774,Jardine,jard@gmail.com,eagle lager,170,250,977,244250,78160,Benin,northcentral ,June,2019
+775,Andrews,andy@gmail.com,hero,150,200,771,154200,38550,Senegal,Southeast,July,2017
+776,Howard,howard_freeman@yahoo.com,beta malt,80,150,862,129300,60340,Ghana,west,August,2017
+777,Gill,gillhell@uk.com,grand malt,90,150,716,107400,42960,Nigeria,southsouth,September,2019
+778,Gill,gillhell@uk.com,trophy,150,200,923,184600,46150,Togo,northwest,October,2017
+779,Kivell,kivel_go@yahoo.com,budweiser,250,500,729,364500,182250,Benin,northeast ,November,2018
+780,Jones,jone.ai@yahoo.com,castle lite,180,450,766,344700,206820,Senegal,northcentral ,December,2017
+781,Morgan,morganny@gmail.com,eagle lager,170,250,704,176000,56320,Ghana,Southeast,January,2019
+782,Kivell,kivel_go@yahoo.com,hero,150,200,823,164600,41150,Nigeria,west,February,2018
+783,Sorvino,sorvi2000@gmail.com,beta malt,80,150,869,130350,60830,Togo,southsouth,March,2017
+784,Gill,gillhell@uk.com,grand malt,90,150,928,139200,55680,Benin,northwest,April,2019
+785,Sorvino,sorvi2000@gmail.com,trophy,150,200,903,180600,45150,Senegal,northeast ,May,2019
+786,Thompson,thomp@uk.com,budweiser,250,500,916,458000,229000,Ghana,northcentral ,June,2018
+787,Andrews,andy@gmail.com,castle lite,180,450,988,444600,266760,Nigeria,Southeast,July,2018
+788,Jardine,jard@gmail.com,eagle lager,170,250,905,226250,72400,Togo,west,August,2017
+789,Jardine,jard@gmail.com,hero,150,200,947,189400,47350,Benin,southsouth,September,2018
+790,Andrews,andy@gmail.com,beta malt,80,150,926,138900,64820,Senegal,northwest,October,2017
+791,Jardine,jard@gmail.com,grand malt,90,150,907,136050,54420,Ghana,northeast ,November,2019
+792,Gill,gillhell@uk.com,trophy,150,200,848,169600,42400,Nigeria,northcentral ,December,2019
+793,Sorvino,sorvi2000@gmail.com,budweiser,250,500,878,439000,219500,Togo,Southeast,January,2017
+794,Jones,jone.ai@yahoo.com,castle lite,180,450,706,317700,190620,Benin,west,February,2018
+795,Andrews,andy@gmail.com,eagle lager,170,250,781,195250,62480,Senegal,southsouth,March,2019
+796,Jardine,jard@gmail.com,hero,150,200,818,163600,40900,Ghana,northwest,April,2017
+797,Thompson,thomp@uk.com,beta malt,80,150,852,127800,59640,Nigeria,northeast ,May,2017
+798,Jones,jone.ai@yahoo.com,grand malt,90,150,786,117900,47160,Togo,northcentral ,June,2019
+799,Morgan,morganny@gmail.com,trophy,150,200,1000,200000,50000,Benin,Southeast,July,2018
+800,Howard,howard_freeman@yahoo.com,budweiser,250,500,952,476000,238000,Senegal,west,August,2017
+801,Parent,parentty@uk.com,castle lite,180,450,839,377550,226530,Ghana,southsouth,September,2018
+802,Jones,jone.ai@yahoo.com,eagle lager,170,250,952,238000,76160,Nigeria,northwest,October,2017
+803,Smith,smithMan@yahoo.com,hero,150,200,777,155400,38850,Togo,northeast ,November,2017
+804,Jones,jone.ai@yahoo.com,beta malt,80,150,864,129600,60480,Benin,northcentral ,December,2018
+805,Morgan,morganny@gmail.com,grand malt,90,150,934,140100,56040,Senegal,Southeast,January,2017
+806,Jones,jone.ai@yahoo.com,trophy,150,200,902,180400,45100,Ghana,west,February,2018
+807,Parent,parentty@uk.com,budweiser,250,500,793,396500,198250,Nigeria,southsouth,March,2017
+808,Kivell,kivel_go@yahoo.com,castle lite,180,450,735,330750,198450,Togo,northwest,April,2019
+809,Smith,smithMan@yahoo.com,eagle lager,170,250,890,222500,71200,Benin,northeast ,May,2018
+810,Parent,parentty@uk.com,hero,150,200,969,193800,48450,Senegal,northcentral ,June,2018
+811,Gill,gillhell@uk.com,beta malt,80,150,978,146700,68460,Ghana,Southeast,July,2019
+812,Smith,smithMan@yahoo.com,grand malt,90,150,855,128250,51300,Nigeria,west,August,2017
+813,Jones,jone.ai@yahoo.com,trophy,150,200,835,167000,41750,Togo,southsouth,September,2017
+814,Sorvino,sorvi2000@gmail.com,budweiser,250,500,835,417500,208750,Benin,northwest,October,2019
+815,Jardine,jard@gmail.com,castle lite,180,450,992,446400,267840,Senegal,northeast ,November,2018
+816,Andrews,andy@gmail.com,eagle lager,170,250,702,175500,56160,Ghana,northcentral ,December,2017
+817,Howard,howard_freeman@yahoo.com,hero,150,200,925,185000,46250,Nigeria,Southeast,January,2019
+818,Gill,gillhell@uk.com,beta malt,80,150,997,149550,69790,Togo,west,February,2017
+819,Gill,gillhell@uk.com,grand malt,90,150,796,119400,47760,Benin,southsouth,March,2019
+820,Kivell,kivel_go@yahoo.com,trophy,150,200,741,148200,37050,Senegal,northwest,April,2019
+821,Jones,jone.ai@yahoo.com,budweiser,250,500,827,413500,206750,Ghana,northeast ,May,2018
+822,Morgan,morganny@gmail.com,castle lite,180,450,849,382050,229230,Nigeria,northcentral ,June,2018
+823,Kivell,kivel_go@yahoo.com,eagle lager,170,250,742,185500,59360,Togo,Southeast,July,2019
+824,Sorvino,sorvi2000@gmail.com,hero,150,200,965,193000,48250,Benin,west,August,2017
+825,Gill,gillhell@uk.com,beta malt,80,150,983,147450,68810,Senegal,southsouth,September,2019
+826,Sorvino,sorvi2000@gmail.com,grand malt,90,150,820,123000,49200,Ghana,northwest,October,2017
+827,Thompson,thomp@uk.com,trophy,150,200,854,170800,42700,Nigeria,northeast ,November,2018
+828,Andrews,andy@gmail.com,budweiser,250,500,768,384000,192000,Togo,northcentral ,December,2019
+829,Jardine,jard@gmail.com,castle lite,180,450,786,353700,212220,Benin,Southeast,January,2019
+830,Jardine,jard@gmail.com,eagle lager,170,250,856,214000,68480,Senegal,west,February,2019
+831,Andrews,andy@gmail.com,hero,150,200,919,183800,45950,Ghana,southsouth,March,2018
+832,Jones,jone.ai@yahoo.com,beta malt,80,150,802,120300,56140,Nigeria,northwest,April,2019
+833,Morgan,morganny@gmail.com,grand malt,90,150,864,129600,51840,Togo,northeast ,May,2017
+834,Kivell,kivel_go@yahoo.com,trophy,150,200,993,198600,49650,Benin,northcentral ,June,2018
+835,Sorvino,sorvi2000@gmail.com,budweiser,250,500,796,398000,199000,Senegal,Southeast,July,2017
+836,Gill,gillhell@uk.com,castle lite,180,450,923,415350,249210,Ghana,west,August,2019
+837,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,990,247500,79200,Nigeria,southsouth,September,2018
+838,Thompson,thomp@uk.com,hero,150,200,957,191400,47850,Togo,northwest,October,2017
+839,Andrews,andy@gmail.com,beta malt,80,150,836,125400,58520,Benin,northeast ,November,2018
+840,Jardine,jard@gmail.com,grand malt,90,150,936,140400,56160,Senegal,northcentral ,December,2019
+841,Jardine,jard@gmail.com,trophy,150,200,924,184800,46200,Ghana,Southeast,January,2019
+842,Andrews,andy@gmail.com,budweiser,250,500,998,499000,249500,Nigeria,west,February,2017
+843,Jardine,jard@gmail.com,castle lite,180,450,862,387900,232740,Togo,southsouth,March,2018
+844,Gill,gillhell@uk.com,eagle lager,170,250,963,240750,77040,Benin,northwest,April,2018
+845,Sorvino,sorvi2000@gmail.com,hero,150,200,849,169800,42450,Senegal,northeast ,May,2017
+846,Jones,jone.ai@yahoo.com,beta malt,80,150,938,140700,65660,Ghana,northcentral ,June,2017
+847,Andrews,andy@gmail.com,grand malt,90,150,918,137700,55080,Nigeria,Southeast,July,2018
+848,Jardine,jard@gmail.com,trophy,150,200,728,145600,36400,Togo,west,August,2017
+849,Thompson,thomp@uk.com,budweiser,250,500,999,499500,249750,Benin,southsouth,September,2019
+850,Jones,jone.ai@yahoo.com,castle lite,180,450,888,399600,239760,Senegal,northwest,October,2018
+851,Morgan,morganny@gmail.com,eagle lager,170,250,746,186500,59680,Ghana,northeast ,November,2018
+852,Howard,howard_freeman@yahoo.com,hero,150,200,989,197800,49450,Nigeria,northcentral ,December,2017
+853,Parent,parentty@uk.com,beta malt,80,150,948,142200,66360,Togo,Southeast,January,2019
+854,Jones,jone.ai@yahoo.com,grand malt,90,150,919,137850,55140,Benin,west,February,2019
+855,Smith,smithMan@yahoo.com,trophy,150,200,887,177400,44350,Senegal,southsouth,March,2017
+856,Jones,jone.ai@yahoo.com,budweiser,250,500,784,392000,196000,Ghana,northwest,April,2019
+857,Jardine,jard@gmail.com,castle lite,180,450,795,357750,214650,Nigeria,northeast ,May,2017
+858,Gill,gillhell@uk.com,eagle lager,170,250,948,237000,75840,Togo,northcentral ,June,2019
+859,Sorvino,sorvi2000@gmail.com,hero,150,200,787,157400,39350,Benin,Southeast,July,2019
+860,Jones,jone.ai@yahoo.com,beta malt,80,150,977,146550,68390,Senegal,west,August,2018
+861,Andrews,andy@gmail.com,grand malt,90,150,955,143250,57300,Ghana,southsouth,September,2017
+862,Jardine,jard@gmail.com,trophy,150,200,955,191000,47750,Nigeria,northwest,October,2018
+863,Thompson,thomp@uk.com,budweiser,250,500,765,382500,191250,Togo,northeast ,November,2017
+864,Jones,jone.ai@yahoo.com,castle lite,180,450,887,399150,239490,Benin,northcentral ,December,2019
+865,Morgan,morganny@gmail.com,eagle lager,170,250,729,182250,58320,Senegal,Southeast,January,2019
+866,Howard,howard_freeman@yahoo.com,hero,150,200,836,167200,41800,Ghana,west,February,2019
+867,Parent,parentty@uk.com,beta malt,80,150,797,119550,55790,Nigeria,southsouth,March,2018
+868,Jones,jone.ai@yahoo.com,grand malt,90,150,791,118650,47460,Togo,northwest,April,2019
+869,Smith,smithMan@yahoo.com,trophy,150,200,773,154600,38650,Benin,northeast ,May,2018
+870,Jones,jone.ai@yahoo.com,budweiser,250,500,767,383500,191750,Senegal,northcentral ,June,2017
+871,Morgan,morganny@gmail.com,castle lite,180,450,939,422550,253530,Ghana,Southeast,July,2019
+872,Jones,jone.ai@yahoo.com,eagle lager,170,250,832,208000,66560,Nigeria,west,August,2018
+873,Parent,parentty@uk.com,hero,150,200,768,153600,38400,Togo,southsouth,September,2018
+874,Kivell,kivel_go@yahoo.com,beta malt,80,150,958,143700,67060,Benin,northwest,October,2017
+875,Smith,smithMan@yahoo.com,grand malt,90,150,958,143700,57480,Senegal,northeast ,November,2018
+876,Parent,parentty@uk.com,trophy,150,200,927,185400,46350,Ghana,northcentral ,December,2019
+877,Gill,gillhell@uk.com,budweiser,250,500,919,459500,229750,Nigeria,Southeast,January,2019
+878,Smith,smithMan@yahoo.com,castle lite,180,450,830,373500,224100,Togo,west,February,2018
+879,Jones,jone.ai@yahoo.com,eagle lager,170,250,874,218500,69920,Benin,southsouth,March,2018
+880,Sorvino,sorvi2000@gmail.com,hero,150,200,954,190800,47700,Senegal,northwest,April,2017
+881,Jardine,jard@gmail.com,beta malt,80,150,919,137850,64330,Ghana,northeast ,May,2017
+882,Andrews,andy@gmail.com,grand malt,90,150,796,119400,47760,Nigeria,northcentral ,June,2017
+883,Howard,howard_freeman@yahoo.com,trophy,150,200,773,154600,38650,Togo,Southeast,July,2017
+884,Gill,gillhell@uk.com,budweiser,250,500,891,445500,222750,Benin,west,August,2018
+885,Gill,gillhell@uk.com,castle lite,180,450,778,350100,210060,Senegal,southsouth,September,2017
+886,Kivell,kivel_go@yahoo.com,eagle lager,170,250,950,237500,76000,Ghana,northwest,October,2018
+887,Jones,jone.ai@yahoo.com,hero,150,200,840,168000,42000,Nigeria,northeast ,November,2017
+888,Morgan,morganny@gmail.com,beta malt,80,150,821,123150,57470,Togo,northcentral ,December,2017
+889,Kivell,kivel_go@yahoo.com,grand malt,90,150,720,108000,43200,Benin,Southeast,January,2017
+890,Sorvino,sorvi2000@gmail.com,trophy,150,200,706,141200,35300,Senegal,west,February,2019
+891,Gill,gillhell@uk.com,budweiser,250,500,827,413500,206750,Ghana,southsouth,March,2018
+892,Sorvino,sorvi2000@gmail.com,castle lite,180,450,792,356400,213840,Nigeria,northwest,April,2017
+893,Thompson,thomp@uk.com,eagle lager,170,250,885,221250,70800,Togo,northeast ,May,2017
+894,Andrews,andy@gmail.com,hero,150,200,973,194600,48650,Benin,northcentral ,June,2019
+895,Jardine,jard@gmail.com,beta malt,80,150,977,146550,68390,Senegal,Southeast,July,2017
+896,Jardine,jard@gmail.com,grand malt,90,150,873,130950,52380,Ghana,west,August,2019
+897,Andrews,andy@gmail.com,trophy,150,200,932,186400,46600,Nigeria,southsouth,September,2017
+898,Jardine,jard@gmail.com,budweiser,250,500,701,350500,175250,Togo,northwest,October,2018
+899,Gill,gillhell@uk.com,castle lite,180,450,977,439650,263790,Benin,northeast ,November,2017
+900,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,977,244250,78160,Senegal,northcentral ,December,2017
+901,Jones,jone.ai@yahoo.com,hero,150,200,952,190400,47600,Ghana,Southeast,January,2019
+902,Andrews,andy@gmail.com,beta malt,80,150,750,112500,52500,Nigeria,west,February,2018
+903,Jardine,jard@gmail.com,grand malt,90,150,961,144150,57660,Togo,southsouth,March,2017
+904,Thompson,thomp@uk.com,trophy,150,200,702,140400,35100,Benin,northwest,April,2018
+905,Jones,jone.ai@yahoo.com,budweiser,250,500,984,492000,246000,Senegal,northeast ,May,2017
+906,Morgan,morganny@gmail.com,castle lite,180,450,861,387450,232470,Ghana,northcentral ,June,2017
+907,Howard,howard_freeman@yahoo.com,eagle lager,170,250,984,246000,78720,Nigeria,Southeast,July,2019
+908,Parent,parentty@uk.com,hero,150,200,760,152000,38000,Togo,west,August,2018
+909,Jones,jone.ai@yahoo.com,beta malt,80,150,849,127350,59430,Benin,southsouth,September,2019
+910,Smith,smithMan@yahoo.com,grand malt,90,150,728,109200,43680,Senegal,northwest,October,2017
+911,Jones,jone.ai@yahoo.com,trophy,150,200,842,168400,42100,Ghana,northeast ,November,2019
+912,Morgan,morganny@gmail.com,budweiser,250,500,966,483000,241500,Nigeria,northcentral ,December,2017
+913,Jones,jone.ai@yahoo.com,castle lite,180,450,732,329400,197640,Togo,Southeast,January,2017
+914,Parent,parentty@uk.com,eagle lager,170,250,996,249000,79680,Benin,west,February,2018
+915,Kivell,kivel_go@yahoo.com,hero,150,200,770,154000,38500,Senegal,southsouth,March,2019
+916,Smith,smithMan@yahoo.com,beta malt,80,150,785,117750,54950,Ghana,northwest,April,2017
+917,Parent,parentty@uk.com,grand malt,90,150,891,133650,53460,Nigeria,northeast ,May,2017
+918,Gill,gillhell@uk.com,trophy,150,200,793,158600,39650,Togo,northcentral ,June,2019
+919,Smith,smithMan@yahoo.com,budweiser,250,500,893,446500,223250,Benin,Southeast,July,2019
+920,Jones,jone.ai@yahoo.com,castle lite,180,450,880,396000,237600,Senegal,west,August,2017
+921,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,921,230250,73680,Ghana,southsouth,September,2017
+922,Jardine,jard@gmail.com,hero,150,200,851,170200,42550,Nigeria,northwest,October,2019
+923,Andrews,andy@gmail.com,beta malt,80,150,860,129000,60200,Togo,northeast ,November,2018
+924,Howard,howard_freeman@yahoo.com,grand malt,90,150,818,122700,49080,Benin,northcentral ,December,2018
+925,Gill,gillhell@uk.com,trophy,150,200,906,181200,45300,Senegal,Southeast,January,2017
+926,Gill,gillhell@uk.com,budweiser,250,500,810,405000,202500,Ghana,west,February,2017
+927,Kivell,kivel_go@yahoo.com,castle lite,180,450,847,381150,228690,Nigeria,southsouth,March,2019
+928,Jones,jone.ai@yahoo.com,eagle lager,170,250,703,175750,56240,Togo,northwest,April,2017
+929,Morgan,morganny@gmail.com,hero,150,200,716,143200,35800,Benin,northeast ,May,2018
+930,Kivell,kivel_go@yahoo.com,beta malt,80,150,895,134250,62650,Senegal,northcentral ,June,2019
+931,Sorvino,sorvi2000@gmail.com,grand malt,90,150,981,147150,58860,Ghana,Southeast,July,2019
+932,Gill,gillhell@uk.com,trophy,150,200,799,159800,39950,Nigeria,west,August,2018
+933,Sorvino,sorvi2000@gmail.com,budweiser,250,500,774,387000,193500,Togo,southsouth,September,2018
+934,Thompson,thomp@uk.com,castle lite,180,450,861,387450,232470,Benin,northwest,October,2019
+935,Andrews,andy@gmail.com,eagle lager,170,250,928,232000,74240,Senegal,northeast ,November,2017
+936,Jardine,jard@gmail.com,hero,150,200,706,141200,35300,Ghana,northcentral ,December,2019
+937,Jardine,jard@gmail.com,beta malt,80,150,761,114150,53270,Nigeria,Southeast,January,2019
+938,Andrews,andy@gmail.com,grand malt,90,150,849,127350,50940,Togo,west,February,2017
+939,Jones,jone.ai@yahoo.com,trophy,150,200,914,182800,45700,Benin,southsouth,March,2019
+940,Morgan,morganny@gmail.com,budweiser,250,500,942,471000,235500,Senegal,northwest,April,2018
+941,Kivell,kivel_go@yahoo.com,castle lite,180,450,930,418500,251100,Ghana,northeast ,May,2017
+942,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,945,236250,75600,Nigeria,northcentral ,June,2018
+943,Gill,gillhell@uk.com,hero,150,200,775,155000,38750,Togo,Southeast,July,2017
+944,Sorvino,sorvi2000@gmail.com,beta malt,80,150,729,109350,51030,Benin,west,August,2017
+945,Thompson,thomp@uk.com,grand malt,90,150,941,141150,56460,Senegal,southsouth,September,2019
+946,Andrews,andy@gmail.com,trophy,150,200,735,147000,36750,Ghana,northwest,October,2017
+947,Jardine,jard@gmail.com,budweiser,250,500,727,363500,181750,Nigeria,northeast ,November,2018
+948,Jardine,jard@gmail.com,castle lite,180,450,859,386550,231930,Togo,northcentral ,December,2018
+949,Andrews,andy@gmail.com,eagle lager,170,250,792,198000,63360,Benin,Southeast,January,2017
+950,Jardine,jard@gmail.com,hero,150,200,874,174800,43700,Senegal,west,February,2017
+951,Gill,gillhell@uk.com,beta malt,80,150,792,118800,55440,Ghana,southsouth,March,2019
+952,Sorvino,sorvi2000@gmail.com,grand malt,90,150,822,123300,49320,Nigeria,northwest,April,2018
+953,Jones,jone.ai@yahoo.com,trophy,150,200,912,182400,45600,Togo,northeast ,May,2017
+954,Andrews,andy@gmail.com,budweiser,250,500,759,379500,189750,Benin,northcentral ,June,2017
+955,Jardine,jard@gmail.com,castle lite,180,450,858,386100,231660,Senegal,Southeast,July,2017
+956,Thompson,thomp@uk.com,eagle lager,170,250,921,230250,73680,Ghana,west,August,2018
+957,Jones,jone.ai@yahoo.com,hero,150,200,871,174200,43550,Nigeria,southsouth,September,2019
+958,Morgan,morganny@gmail.com,beta malt,80,150,836,125400,58520,Togo,northwest,October,2018
+959,Howard,howard_freeman@yahoo.com,grand malt,90,150,861,129150,51660,Benin,northeast ,November,2019
+960,Parent,parentty@uk.com,trophy,150,200,711,142200,35550,Senegal,northcentral ,December,2019
+961,Jones,jone.ai@yahoo.com,budweiser,250,500,834,417000,208500,Ghana,Southeast,January,2019
+962,Smith,smithMan@yahoo.com,castle lite,180,450,979,440550,264330,Nigeria,west,February,2018
+963,Jones,jone.ai@yahoo.com,eagle lager,170,250,858,214500,68640,Togo,southsouth,March,2019
+964,Jardine,jard@gmail.com,hero,150,200,737,147400,36850,Benin,northwest,April,2017
+965,Gill,gillhell@uk.com,beta malt,80,150,800,120000,56000,Senegal,northeast ,May,2018
+966,Sorvino,sorvi2000@gmail.com,grand malt,90,150,892,133800,53520,Ghana,northcentral ,June,2018
+967,Jones,jone.ai@yahoo.com,trophy,150,200,758,151600,37900,Nigeria,Southeast,July,2018
+968,Andrews,andy@gmail.com,budweiser,250,500,725,362500,181250,Togo,west,August,2017
+969,Jardine,jard@gmail.com,castle lite,180,450,939,422550,253530,Benin,southsouth,September,2018
+970,Thompson,thomp@uk.com,eagle lager,170,250,851,212750,68080,Senegal,northwest,October,2017
+971,Jones,jone.ai@yahoo.com,hero,150,200,814,162800,40700,Ghana,northeast ,November,2018
+972,Morgan,morganny@gmail.com,beta malt,80,150,832,124800,58240,Nigeria,northcentral ,December,2018
+973,Howard,howard_freeman@yahoo.com,grand malt,90,150,927,139050,55620,Togo,Southeast,January,2017
+974,Parent,parentty@uk.com,trophy,150,200,825,165000,41250,Benin,west,February,2018
+975,Jones,jone.ai@yahoo.com,budweiser,250,500,934,467000,233500,Senegal,southsouth,March,2018
+976,Smith,smithMan@yahoo.com,castle lite,180,450,779,350550,210330,Ghana,northwest,April,2019
+977,Jones,jone.ai@yahoo.com,eagle lager,170,250,706,176500,56480,Nigeria,northeast ,May,2019
+978,Morgan,morganny@gmail.com,hero,150,200,743,148600,37150,Togo,northcentral ,June,2017
+979,Jones,jone.ai@yahoo.com,beta malt,80,150,919,137850,64330,Benin,Southeast,July,2017
+980,Parent,parentty@uk.com,grand malt,90,150,991,148650,59460,Senegal,west,August,2019
+981,Kivell,kivel_go@yahoo.com,trophy,150,200,836,167200,41800,Ghana,southsouth,September,2018
+982,Smith,smithMan@yahoo.com,budweiser,250,500,793,396500,198250,Nigeria,northwest,October,2017
+983,Parent,parentty@uk.com,castle lite,180,450,831,373950,224370,Togo,northeast ,November,2019
+984,Gill,gillhell@uk.com,eagle lager,170,250,847,211750,67760,Benin,northcentral ,December,2017
+985,Smith,smithMan@yahoo.com,hero,150,200,993,198600,49650,Senegal,Southeast,January,2017
+986,Jones,jone.ai@yahoo.com,beta malt,80,150,904,135600,63280,Ghana,west,February,2019
+987,Sorvino,sorvi2000@gmail.com,grand malt,90,150,832,124800,49920,Nigeria,southsouth,March,2018
+988,Jardine,jard@gmail.com,trophy,150,200,763,152600,38150,Togo,northwest,April,2017
+989,Andrews,andy@gmail.com,budweiser,250,500,912,456000,228000,Benin,northeast ,May,2019
+990,Howard,howard_freeman@yahoo.com,castle lite,180,450,834,375300,225180,Senegal,northcentral ,June,2018
+991,Gill,gillhell@uk.com,eagle lager,170,250,914,228500,73120,Ghana,Southeast,July,2019
+992,Gill,gillhell@uk.com,hero,150,200,863,172600,43150,Nigeria,west,August,2019
+993,Kivell,kivel_go@yahoo.com,beta malt,80,150,835,125250,58450,Togo,southsouth,September,2017
+994,Jones,jone.ai@yahoo.com,grand malt,90,150,859,128850,51540,Benin,northwest,October,2019
+995,Morgan,morganny@gmail.com,trophy,150,200,995,199000,49750,Senegal,northeast ,November,2017
+996,Kivell,kivel_go@yahoo.com,budweiser,250,500,995,497500,248750,Ghana,northcentral ,December,2018
+997,Sorvino,sorvi2000@gmail.com,castle lite,180,450,736,331200,198720,Nigeria,Southeast,January,2019
+998,Gill,gillhell@uk.com,eagle lager,170,250,857,214250,68560,Togo,west,February,2018
+999,Sorvino,sorvi2000@gmail.com,hero,150,200,938,187600,46900,Benin,southsouth,March,2018
+1000,Thompson,thomp@uk.com,beta malt,80,150,785,117750,54950,Senegal,northwest,April,2018
+1001,Andrews,andy@gmail.com,grand malt,90,150,910,136500,54600,Ghana,northeast ,May,2018
+1002,Jardine,jard@gmail.com,trophy,150,200,838,167600,41900,Nigeria,northcentral ,June,2019
+1003,Jardine,jard@gmail.com,budweiser,250,500,943,471500,235750,Togo,Southeast,July,2019
+1004,Andrews,andy@gmail.com,castle lite,180,450,771,346950,208170,Benin,west,August,2019
+1005,Jardine,jard@gmail.com,eagle lager,170,250,881,220250,70480,Senegal,southsouth,September,2017
+1006,Gill,gillhell@uk.com,hero,150,200,973,194600,48650,Ghana,northwest,October,2017
+1007,Sorvino,sorvi2000@gmail.com,beta malt,80,150,786,117900,55020,Nigeria,northeast ,November,2017
+1008,Jones,jone.ai@yahoo.com,grand malt,90,150,904,135600,54240,Togo,northcentral ,December,2018
+1009,Andrews,andy@gmail.com,trophy,150,200,912,182400,45600,Benin,Southeast,January,2018
+1010,Jardine,jard@gmail.com,budweiser,250,500,734,367000,183500,Senegal,west,February,2018
+1011,Thompson,thomp@uk.com,castle lite,180,450,977,439650,263790,Ghana,southsouth,March,2017
+1012,Jones,jone.ai@yahoo.com,eagle lager,170,250,711,177750,56880,Nigeria,northwest,April,2017
+1013,Morgan,morganny@gmail.com,hero,150,200,727,145400,36350,Togo,northeast ,May,2017
+1014,Howard,howard_freeman@yahoo.com,beta malt,80,150,732,109800,51240,Benin,northcentral ,June,2017
+1015,Parent,parentty@uk.com,grand malt,90,150,908,136200,54480,Senegal,Southeast,July,2018
+1016,Jones,jone.ai@yahoo.com,trophy,150,200,767,153400,38350,Ghana,west,August,2017
+1017,Smith,smithMan@yahoo.com,budweiser,250,500,847,423500,211750,Nigeria,southsouth,September,2019
+1018,Jones,jone.ai@yahoo.com,castle lite,180,450,968,435600,261360,Togo,northwest,October,2019
+1019,Morgan,morganny@gmail.com,eagle lager,170,250,832,208000,66560,Benin,northeast ,November,2018
+1020,Jones,jone.ai@yahoo.com,hero,150,200,763,152600,38150,Senegal,northcentral ,December,2018
+1021,Parent,parentty@uk.com,beta malt,80,150,842,126300,58940,Ghana,Southeast,January,2017
+1022,Kivell,kivel_go@yahoo.com,grand malt,90,150,848,127200,50880,Nigeria,west,February,2018
+1023,Smith,smithMan@yahoo.com,trophy,150,200,988,197600,49400,Togo,southsouth,March,2018
+1024,Parent,parentty@uk.com,budweiser,250,500,876,438000,219000,Benin,northwest,April,2018
+1025,Gill,gillhell@uk.com,castle lite,180,450,900,405000,243000,Senegal,northeast ,May,2019
+1026,Smith,smithMan@yahoo.com,eagle lager,170,250,938,234500,75040,Ghana,northcentral ,June,2019
+1027,Jones,jone.ai@yahoo.com,hero,150,200,731,146200,36550,Nigeria,Southeast,July,2018
+1028,Sorvino,sorvi2000@gmail.com,beta malt,80,150,779,116850,54530,Togo,west,August,2017
+1029,Jardine,jard@gmail.com,grand malt,90,150,900,135000,54000,Benin,southsouth,September,2019
+1030,Andrews,andy@gmail.com,trophy,150,200,953,190600,47650,Senegal,northwest,October,2017
+1031,Howard,howard_freeman@yahoo.com,budweiser,250,500,700,350000,175000,Ghana,northeast ,November,2019
+1032,Gill,gillhell@uk.com,castle lite,180,450,721,324450,194670,Nigeria,northcentral ,December,2018
+1033,Gill,gillhell@uk.com,eagle lager,170,250,972,243000,77760,Togo,Southeast,January,2019
+1034,Kivell,kivel_go@yahoo.com,hero,150,200,860,172000,43000,Benin,west,February,2018
+1035,Jones,jone.ai@yahoo.com,beta malt,80,150,811,121650,56770,Senegal,southsouth,March,2019
+1036,Morgan,morganny@gmail.com,grand malt,90,150,963,144450,57780,Ghana,northwest,April,2019
+1037,Kivell,kivel_go@yahoo.com,trophy,150,200,974,194800,48700,Nigeria,northeast ,May,2017
+1038,Sorvino,sorvi2000@gmail.com,budweiser,250,500,839,419500,209750,Togo,northcentral ,June,2019
+1039,Gill,gillhell@uk.com,castle lite,180,450,907,408150,244890,Benin,Southeast,July,2017
+1040,Sorvino,sorvi2000@gmail.com,eagle lager,170,250,949,237250,75920,Senegal,west,August,2017
+1041,Thompson,thomp@uk.com,hero,150,200,903,180600,45150,Ghana,southsouth,September,2019
+1042,Andrews,andy@gmail.com,beta malt,80,150,740,111000,51800,Nigeria,northwest,October,2018
+1043,Jardine,jard@gmail.com,grand malt,90,150,962,144300,57720,Togo,northeast ,November,2017
+1044,Jardine,jard@gmail.com,trophy,150,200,892,178400,44600,Benin,northcentral ,December,2017
+1045,Andrews,andy@gmail.com,budweiser,250,500,816,408000,204000,Senegal,Southeast,January,2019
+1046,Jones,jone.ai@yahoo.com,castle lite,180,450,939,422550,253530,Ghana,west,February,2017
+1047,Morgan,morganny@gmail.com,eagle lager,170,250,935,233750,74800,Nigeria,southsouth,March,2019
